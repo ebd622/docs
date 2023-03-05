@@ -5,7 +5,7 @@
   * 3DEC - despite its slower speeds and generally outdated status when compared to AES, it is still widely utilized in financial services to encrypt ATM PINs and UNIX passwords.
 
 <p align="center">
-  <img src="images/sym_enc.drawio.png" width="40%" style="border:5px solid #000000">
+  <img src="images/sym_enc.drawio.png" width="40%" style="border:5px solid #000000;">
 </p>
 
 
