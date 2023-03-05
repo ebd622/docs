@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/sym_enc.drawio.svg" width="55%">
+  <img src="images/sym_enc.drawio.sfg" width="5%">
 </p>
 
 <p align="center">
