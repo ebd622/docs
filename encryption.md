@@ -23,12 +23,12 @@
 
 
 <p align="center">
-  <img src="images/rsa_3.svg" width="50%">
+  <img src="images/rsa_3.svg" width="70%">
 </p>
 
 
 <p align="center">
-  <img src="images/rsa_4.svg" width="60%">
+  <img src="images/rsa_4.svg" width="70%">
 </p>
 
 
