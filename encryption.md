@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="images/sym_enc.drawio.svg" width="40%">
+</p>
+
+<p align="center">
   <img src="images/rsa_2.svg" width="40%">
 </p>
 
