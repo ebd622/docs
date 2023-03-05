@@ -4,13 +4,6 @@
   * TwoFish (previously BlowFish) - gives flexibility in performance, total control of the encryption speed.
   * 3DEC - despite its slower speeds and generally outdated status when compared to AES, it is still widely utilized in financial services to encrypt ATM PINs and UNIX passwords.
 
-<style>
- img {
-  width: 270px;
-  border: 1px solid black;
- }
-</style>
-
 <p align="center">
   <img src="images/sym_enc.drawio.png" width="40%">
 </p>
