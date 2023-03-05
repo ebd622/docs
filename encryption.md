@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/rsa_2.swg" width="40%">
+  <img src="images/rsa_2.svg" width="40%">
 </p>
 
 
