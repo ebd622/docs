@@ -8,6 +8,10 @@
   <img src="images/sym_enc.drawio.png" width="40%">
 </p>
 
+<p align="center">
+  <img src="images/rsa_2.png" width="40%">
+</p>
+
 
 * `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
   * RSA (Rivest–Shamir–Adleman) - mostly used in digital signatures, email encryption, SSL/TLS certificates and browsers. Low speed, it is NOT convinient for processing large amount of data.
