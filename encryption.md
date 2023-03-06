@@ -8,6 +8,14 @@
   <img src="images/sym_enc.drawio.svg" width="50%">
 </p>
 
+
+
+* `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
+  * RSA (Rivest–Shamir–Adleman) - mostly used in digital signatures, email encryption, SSL/TLS certificates and browsers. Low speed, it is NOT convinient for processing large amount of data.
+  * ECC (Elliptic Curve Cryptography) - low-cost, low-impact, high-security. It is an ideal standard for protecting sensitive mobiles and apps. It may likely be the algorithm of the future.
+
+  An algorithm generates a public and private key that are mathematically linked to each other.
+
 <p align="center">
   <img src="images/rsa_1.svg" width="40%">
 </p>
@@ -27,12 +35,6 @@
   <img src="images/rsa_4.svg" width="60%">
 </p>
 
-
-* `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
-  * RSA (Rivest–Shamir–Adleman) - mostly used in digital signatures, email encryption, SSL/TLS certificates and browsers. Low speed, it is NOT convinient for processing large amount of data.
-  * ECC (Elliptic Curve Cryptography) - low-cost, low-impact, high-security. It is an ideal standard for protecting sensitive mobiles and apps. It may likely be the algorithm of the future.
-
-  An algorithm generates a public and private key that are mathematically linked to each other.
 
 ## Resurces
 * [Data Encryption](https://preyproject.com/blog/types-of-encryption-symmetric-or-asymmetric-rsa-or-aes#:~:text=Symmetric%20vs%20Asymmetric%20Encryption,-Encryption%20types%20can&text=Symmetric%20encryption%20uses%20a%20unique,messages%20when%20they%20are%20communicated)
