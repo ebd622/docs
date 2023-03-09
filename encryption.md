@@ -23,7 +23,9 @@
   <img src="images/rsa_1.svg" width="40%">
 </p>
 
+* Paerson1 and Person2 exchane their public keys.
 
+ 
 <p align="center">
   <img src="images/rsa_2.svg" width="40%">
 </p>
