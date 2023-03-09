@@ -23,7 +23,7 @@
   <img src="images/rsa_1.svg" width="40%">
 </p>
 
-* Paerson1 and Person2 exchane their public keys.
+* Paerson1 and Person2 exchange their public keys. Private keys are never exchainged.
 
  
 <p align="center">
