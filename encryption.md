@@ -30,6 +30,8 @@
   <img src="images/rsa_2.svg" width="40%">
 </p>
 
+* Paerson1 sends encrypted data to Person2
+
 
 <p align="center">
   <img src="images/rsa_3.svg" width="60%">
