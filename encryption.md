@@ -30,7 +30,7 @@
   <img src="images/rsa_2.svg" width="40%">
 </p>
 
-* Paerson1 sends encrypted data to Person2
+* Paerson1 use `Public Key2` to encrypt data. Encrypted data is sent to Person2.
 
 
 <p align="center">
