@@ -30,7 +30,7 @@
   <img src="images/rsa_2.svg" width="40%">
 </p>
 
-* **Person1** uses `Public Key2` to encrypt data. Encrypted data (cypher text) is sent to Person2. **Person2** uses its private key to decrypt data.
+* **Person1** uses `Public Key2` to encrypt data. Encrypted data (cypher text) is sent to Person2. **Person2** uses its `Private key2` to decrypt data.
 
 
 <p align="center">
