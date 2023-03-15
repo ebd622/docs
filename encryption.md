@@ -37,7 +37,7 @@
   <img src="images/rsa_3.svg" width="60%">
 </p>
 
-* **Person2** uses Public Key1 to encrypt data.
+* **Person2** uses Public Key1 to encrypt data. Encrypted data (cypher text) is sent to Person1.
 <p align="center">
   <img src="images/rsa_4.svg" width="60%">
 </p>
