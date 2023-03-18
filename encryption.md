@@ -1,6 +1,6 @@
 # Symmetric and Asymmetric Encryption
 
-## Encryption/Decryption process 
+## Encryption Basics
 
 ### Encryption
 
@@ -8,6 +8,7 @@
   <img src="images/encr_data.svg" width="50%">
 </p>
 
+### Decryption
 <p align="center">
   <img src="images/decr_data.svg" width="50%">
 </p>
