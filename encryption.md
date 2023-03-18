@@ -3,6 +3,7 @@
 ## Encryption Basics
 Encryption is a security control used to provide confidentiality protection for data. It is a mathematical transformation of data requiring protection (plaintext) into a form not easily understood by unauthorized people or machines (ciphertext).
 ### Encryption
+The encryption function requires two inputs, plaintext and a cryptographic key, in order to output ciphertext
 
 <p align="center">
   <img src="images/encr_data.svg" width="45%">
