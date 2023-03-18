@@ -1,7 +1,7 @@
 # Symmetric and Asymmetric Encryption
 
 ## Encryption Basics
-
+Encryption is a security control used to provide confidentiality protection for data. It is a mathematical transformation of data requiring protection (plaintext) into a form not easily understood by unauthorized people or machines (ciphertext).
 ### Encryption
 
 <p align="center">
