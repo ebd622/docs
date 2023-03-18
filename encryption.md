@@ -1,6 +1,8 @@
 # Symmetric and Asymmetric Encryption
 
-## Encryption
+## Encryption/Decryption process 
+
+### Encryption
 
 <p align="center">
   <img src="images/encr_data.svg" width="50%">
