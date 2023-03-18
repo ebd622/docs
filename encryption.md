@@ -2,6 +2,9 @@
 
 ## Encryption
 
+<p align="center">
+  <img src="images/encr_data.svg" width="50%">
+</p>
 
 
 ## Symmetric Encryption
