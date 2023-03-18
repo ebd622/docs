@@ -10,6 +10,7 @@ The encryption function requires two inputs, plaintext and a cryptographic key, 
 </p>
 
 ### Decryption
+The decryption function requires two inputs, ciphertext and a cryptographic key, in order to output plaintext.
 <p align="center">
   <img src="images/decr_data.svg" width="45%">
 </p>
