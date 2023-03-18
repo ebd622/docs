@@ -10,7 +10,7 @@
 
 ### Decryption
 <p align="center">
-  <img src="images/decr_data.svg" width="50%">
+  <img src="images/decr_data.svg" width="40%">
 </p>
 
 
