@@ -58,5 +58,6 @@ Encryption is a security control used to provide confidentiality protection for 
 
 
 ## Resurces
+* https://library.ahima.org/doc?oid=104090#.ZBV-TOzMJUd
 * [Data Encryption](https://preyproject.com/blog/types-of-encryption-symmetric-or-asymmetric-rsa-or-aes#:~:text=Symmetric%20vs%20Asymmetric%20Encryption,-Encryption%20types%20can&text=Symmetric%20encryption%20uses%20a%20unique,messages%20when%20they%20are%20communicated)
 * [Asymmetric Encryption - Simply explained](https://www.youtube.com/watch?v=AQDCe585Lnc)
