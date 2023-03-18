@@ -6,6 +6,10 @@
   <img src="images/encr_data.svg" width="50%">
 </p>
 
+<p align="center">
+  <img src="images/decr_data.svg" width="50%">
+</p>
+
 
 ## Symmetric Encryption
 `Symmetric encryption` uses a unique key that must be shared between parties (people or software) who need to receive messages. Common Symmetric encryption algorithms:
