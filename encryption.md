@@ -5,7 +5,7 @@
 ### Encryption
 
 <p align="center">
-  <img src="images/encr_data.svg" width="50%">
+  <img src="images/encr_data.svg" width="45%">
 </p>
 
 ### Decryption
