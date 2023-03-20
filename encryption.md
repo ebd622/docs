@@ -43,7 +43,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
   <img src="images/rsa_1.svg" width="40%">
 </p>
 
-* **Person1** and **Person2** exchange their public keys. Private keys are never exchainged.
+2. **Person1** and **Person2** exchange their public keys. Private keys are never exchainged.
 
  
 <p align="center">
