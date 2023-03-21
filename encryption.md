@@ -36,7 +36,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
   * ECC (Elliptic Curve Cryptography) - low-cost, low-impact, high-security. It is an ideal standard for protecting sensitive mobiles and apps. It may likely be the algorithm of the future.
 
 ### How it works
-1. Both Paerson1 and Person2 generate their own pairs public/private keys.
+1. Both **Person1** and **Person2** generate their own pairs public/private keys.
   An algorithm generates a public and private key that are mathematically linked to each other.
 
 <p align="center">
