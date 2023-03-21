@@ -57,7 +57,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
   <img src="images/rsa_3.svg" width="60%">
 </p>
 
-* **Person2** uses Public Key1 to encrypt data. Encrypted data (cypher text) is sent to **Person1**. **Person1** uses its `Private key1` to decrypt data.
+4. **Person2** uses Public Key1 to encrypt data. Encrypted data (cypher text) is sent to **Person1**. **Person1** uses its `Private key1` to decrypt data.
 <p align="center">
   <img src="images/rsa_4.svg" width="60%">
 </p>
