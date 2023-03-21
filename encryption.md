@@ -37,7 +37,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 
 ### How it works
 1. Both **Person1** and **Person2** generate their own pairs public/private keys.
-  An algorithm generates a public and private key that are mathematically linked to each other.
+  An algorithm generates a public/private key-pair in such a way, that they are mathematically linked to each other.
 
 <p align="center">
   <img src="images/rsa_1.svg" width="40%">
