@@ -40,10 +40,8 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 - Digital signatures: RSA algorithm can be used for digital signatures, which means that a sender can sign a message using their private key, and the receiver can verify the signature using the sender’s public key.
 
 ### Disadvantages
-Slow processing speed: RSA algorithm is slow compared to other encryption algorithms, especially when dealing with large amounts of data.
-
-
-
+* Slow processing speed: RSA algorithm is slow compared to other encryption algorithms, especially when dealing with large amounts of data.
+* Large key size: RSA algorithm requires large key sizes to be secure, which means that it requires more computational resources and storage space.
 
 
 ### How it works
