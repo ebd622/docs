@@ -36,7 +36,10 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
   * ECC (Elliptic Curve Cryptography) - low-cost, low-impact, high-security. It is an ideal standard for protecting sensitive mobiles and apps. It may likely be the algorithm of the future.
 
 ### Advantages
-* Security: RSA algorithm is considered to be very secure and is widely used for secure data transmission.
+- Security: RSA algorithm is considered to be very secure and is widely used for secure data transmission.
+- Digital signatures: RSA algorithm can be used for digital signatures, which means that a sender can sign a message using their private key, and the receiver can verify the signature using the sender’s public key.
+
+
 
 
 
