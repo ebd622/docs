@@ -29,6 +29,8 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
   <img src="images/sym_enc.drawio.svg" width="50%">
 </p>
 
+#### Advantages
+TODO
 
 ## Asymmetric Encryption
 `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
