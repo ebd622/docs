@@ -32,6 +32,9 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 #### Advantages
 TODO
 
+#### Disadvantages
+TODO
+
 ## Asymmetric Encryption
 `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
   * RSA (Rivest–Shamir–Adleman) - mostly used in digital signatures, email encryption, SSL/TLS certificates and browsers. Low speed, it is NOT convinient for processing large amount of data.
