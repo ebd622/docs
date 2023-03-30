@@ -30,7 +30,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 </p>
 
 #### Advantages
-TODO
+Fast and efficient for large amounts of data.
 
 #### Disadvantages
 TODO
