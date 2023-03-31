@@ -33,6 +33,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 Fast and efficient for large amounts of data. These are the main advantages. 
 
 #### Disadvantages
+A main disadvantage is key distribution.
 TODO
 
 ## Asymmetric Encryption
