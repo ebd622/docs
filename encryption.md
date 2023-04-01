@@ -33,6 +33,7 @@ The decryption function requires two inputs, ciphertext and a cryptographic key,
 Fast and efficient for large amounts of data. These are the main advantages. 
 
 #### Disadvantages
+The  biggest problem of symmetric key cryptography is key distribution.
 A main disadvantage is key distribution.
 TODO
 
