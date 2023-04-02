@@ -34,7 +34,6 @@ Fast and efficient for large amounts of data. These are the main advantages.
 
 #### Disadvantages
 The  biggest problem of symmetric key cryptography is key distribution.
-TODO
 
 ## Asymmetric Encryption
 `Asymmetric encryption` uses a pair of public keys and a private key to encrypt and decrypt messages when they are communicated. Common algorithms:
