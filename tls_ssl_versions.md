@@ -2,6 +2,8 @@
 
 * TLS - Transport Layer Security
 * SSL - Secure Socket Layer
+* Terms TLS and SSL are mostly interchangeable
+
 
 ### Resourcse
 * [TLS / SSL Versions - Part 1 - Practical TLS](https://youtu.be/_KgZNF8nQvE)
