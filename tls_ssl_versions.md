@@ -4,6 +4,9 @@
 * SSL - Secure Socket Layer
 * Terms TLS and SSL are mostly interchangeable
 
+| SSL 1.0 | SSL 1.0 |
+|:-------:|:-------:|
+
 #### SSL 1.0
 - Developed by Netscape
 - Never publicly released
