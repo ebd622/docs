@@ -8,6 +8,10 @@
 - Developed by Netscape
 - Never publicly released
 - Full of flaws
+#### SSL 2.0
+- Developed by Netscape
+- Complete redesign of SSL 1.0 (to fix all flaws)
+- Anyway, if was full of flaws
 
 
 
