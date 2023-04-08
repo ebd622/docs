@@ -12,6 +12,10 @@
 - Developed by Netscape
 - Complete redesign of SSL 1.0 (to fix all flaws)
 - Anyway, if was still full of flaws
+#### SSL 3.0
+- Complete redesign of SSL 2.0 by Netscape
+- It is a foundation of TLS versions currently used
+
 
 
 
