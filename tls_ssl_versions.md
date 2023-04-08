@@ -32,7 +32,9 @@
   - Required support for additional key exchange;
 - Major vulnerability is BEAST (attach on CBC ciphers). It is mitigated in most modern browsers
 
-
+#### TLS 1.1 ([RFC 4346](https://www.rfc-editor.org/rfc/rfc4346))
+- Formally deprecated "EXPORT grade" ciphers
+- Protection against BEAST (vulnerability in TLC 1.0);
 
 
 
