@@ -6,6 +6,7 @@
 
 | SSL 1.0 | SSL 1.0 |
 |:-------:|:-------:|
+|  1994   |  1995   |
 
 #### SSL 1.0
 - Developed by Netscape
