@@ -35,7 +35,7 @@
 #### TLS 1.1 ([RFC 4346](https://www.rfc-editor.org/rfc/rfc4346))
 - Formally deprecated "EXPORT grade" ciphers
 - Protection against BEAST (vulnerability in TLC 1.0);
-- TLS 1.0 and TLS 1.1 deprecated as of March 2021 (RFC 8996). Both versions are not recommended for use;
+- Officialy TLS 1.0 and TLS 1.1 are deprecated as of March 2021 (RFC 8996). Both versions are not recommended for use on a public Internet
 
 
 
