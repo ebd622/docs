@@ -18,7 +18,7 @@
 - New features:
   - Introduced concept of Certificate Chain
   - Added compression capability (vulnerability has been found there later, so compression was not really used)
-  - Optional support for additional Key Exchange 
+  - Optional support for additional Key Exchange (SSL1.0 and SSL2.0 only supported RSA Key Exchange)
 
 
 
