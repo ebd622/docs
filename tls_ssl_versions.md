@@ -17,7 +17,8 @@
 - It is a foundation of TLS versions currently used
 - New features:
   - Introduced concept of Certificate Chain
-  - Added compression capability
+  - Added compression capability (vulnarability has been found there later, so it was not really used)
+  - Optional support for additional Key Exchange 
 
 
 
