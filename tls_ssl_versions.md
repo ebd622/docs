@@ -20,6 +20,7 @@
   - Added compression capability (vulnerability has been found there later, so compression was not really used)
   - Optional support for additional Key Exchange (SSL1.0 and SSL2.0 only supported RSA Key Exchange)
 - Netscape relased it to the world, a historical copy of it is available as [RFC 6101](https://www.rfc-editor.org/rfc/rfc6101)
+- Insecure as of October 2014 dur to [POODLE](https://en.wikipedia.org/wiki/POODLE) attach
 
 
 
