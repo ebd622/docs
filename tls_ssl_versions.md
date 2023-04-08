@@ -22,6 +22,10 @@
 - Netscape relased it to the world, a historical copy of it is available as [RFC 6101](https://www.rfc-editor.org/rfc/rfc6101)
 - Insecure as of October 2014 dur to [POODLE](https://en.wikipedia.org/wiki/POODLE) attach
 
+#### TLS 1.0
+- Renamed "TLS" when "SSL" becomeopen standard
+- Protocol ownership transferred to [IETF](https://www.ietf.org/about/introduction/)
+
 
 
 
