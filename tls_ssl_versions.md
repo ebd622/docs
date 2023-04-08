@@ -11,7 +11,7 @@
 #### SSL 2.0
 - Developed by Netscape
 - Complete redesign of SSL 1.0 (to fix all flaws)
-- Anyway, if was full of flaws
+- Anyway, if was still full of flaws
 
 
 
