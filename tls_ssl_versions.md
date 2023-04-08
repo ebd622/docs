@@ -27,6 +27,9 @@
 - Protocol ownership transferred to [IETF](https://www.ietf.org/about/introduction/)
   - SSL is a protoclo invented by Netscape
   - TLS is a protocol mainteined by IETF
+- Minor changes:
+  - HMAC Support;
+  - Required support for additional key exchange
 
 
 
