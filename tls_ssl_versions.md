@@ -15,6 +15,9 @@
 #### SSL 3.0
 - Complete redesign of SSL 2.0 by Netscape
 - It is a foundation of TLS versions currently used
+- New features:
+  - Introduced concept of Certificate Chain
+  - Added compression capability
 
 
 
