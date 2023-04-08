@@ -25,6 +25,8 @@
 #### TLS 1.0
 - Renamed "TLS" when "SSL" becomeopen standard
 - Protocol ownership transferred to [IETF](https://www.ietf.org/about/introduction/)
+  - SSL is a protoclo invented by Netscape
+  - TLS is a protocol mainteined by IETF
 
 
 
