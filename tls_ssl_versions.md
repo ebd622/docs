@@ -29,7 +29,10 @@
   - TLS is a protocol mainteined by IETF
 - Minor changes:
   - HMAC Support;
-  - Required support for additional key exchange
+  - Required support for additional key exchange;
+- Major vulnerability is BEAST (attach on CBC ciphers). It is mitigated in most modern browsers
+
+
 
 
 
