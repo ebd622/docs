@@ -53,6 +53,7 @@
 - Improved security of session key generation
 - Introduced support for [AEAD](https://shadowsocks.org/guide/aead.html) Ciphers
 
+#### TLS 1.3
 
 
 ### Resourcse
