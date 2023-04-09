@@ -54,6 +54,8 @@
 - Introduced support for [AEAD](https://shadowsocks.org/guide/aead.html) Ciphers
 
 #### TLS 1.3
+- Major changes from prior versions of TLS/SSL;
+- Shorter handshake (2 messages vs 5+)
 
 
 ### Resourcse
