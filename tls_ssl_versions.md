@@ -4,15 +4,15 @@
 * SSL - Secure Socket Layer
 * Terms TLS and SSL are mostly interchangeable
 
-| SSL/TLS |  Introduced year   |Invented/Mainteined|   RFC   |
+| SSL/TLS |  Introduced year   |Invented/Mainteined|   RFC   | Recommended to use | 
 |:-------:|:-------:|:--------:|:-------:|
-|`SSL 1.0` |  1994  | Netscape |  - |
-|`SSL 2.0` |  1995  | Netscape |  - |
-|`SSL 3.0` |  1996  | Netscape |  - |
-|`TLS 1.0` |  1999  |  IETF    | [RFC 2246](https://www.rfc-editor.org/rfc/rfc2246) |
-|`TLS 1.1` |  2006  |  IETF    | [RFC 4346](https://www.rfc-editor.org/rfc/rfc4346) |
-|`TLS 1.2` |  2008  |  IETF    | [RFC 5246](https://www.rfc-editor.org/rfc/rfc5246) |
-|`TLS 1.3` |  2018  |  IETF    | [RFC 8446](https://www.rfc-editor.org/rfc/rfc8446) |
+|`SSL 1.0` |  1994  | Netscape |  - | No |
+|`SSL 2.0` |  1995  | Netscape |  - | No |
+|`SSL 3.0` |  1996  | Netscape |  - | No |
+|`TLS 1.0` |  1999  |  IETF    | [RFC 2246](https://www.rfc-editor.org/rfc/rfc2246) | No |
+|`TLS 1.1` |  2006  |  IETF    | [RFC 4346](https://www.rfc-editor.org/rfc/rfc4346) | No |
+|`TLS 1.2` |  2008  |  IETF    | [RFC 5246](https://www.rfc-editor.org/rfc/rfc5246) | No |
+|`TLS 1.3` |  2018  |  IETF    | [RFC 8446](https://www.rfc-editor.org/rfc/rfc8446) | No |
 
 
 #### SSL 1.0
