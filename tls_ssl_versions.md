@@ -5,7 +5,7 @@
 * Terms TLS and SSL are mostly interchangeable
 
 | SSL/TLS |  Introduced year   |Invented/Mainteined|   RFC   | Recommended to use | 
-|:-------:|:-------:|:--------:|:-------:|
+|:-------:|:-------:|:--------:|:-------:|:-------:|
 |`SSL 1.0` |  1994  | Netscape |  - | No |
 |`SSL 2.0` |  1995  | Netscape |  - | No |
 |`SSL 3.0` |  1996  | Netscape |  - | No |
