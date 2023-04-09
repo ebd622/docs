@@ -51,7 +51,7 @@
 #### TLS 1.2
 - Large similar to TLS 1.1
 - Improved security of session key generation
-- Introduced support for AEAD Ciphers
+- Introduced support for [AEAD](https://shadowsocks.org/guide/aead.html) Ciphers
 
 
 
