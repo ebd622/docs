@@ -59,6 +59,8 @@
   - 0-RTT (round trip time) resuumption
   - Forward Secrecy required (incredibly important concept in crypthography. Using it is a huge step forward for security)
   - AEAD cihers required
+- Favors security and simplicity over backwards compatibility
+  - Insecure algorithms removed
 
 
 ### Resourcse
