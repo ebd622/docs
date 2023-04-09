@@ -33,7 +33,7 @@
 - Netscape relased it to the world, a historical copy of it is available as [RFC 6101](https://www.rfc-editor.org/rfc/rfc6101)
 - Insecure as of October 2014 dur to [POODLE](https://en.wikipedia.org/wiki/POODLE) attach
 
-#### TLS 1.0 ([RFC 2246](https://www.rfc-editor.org/rfc/rfc2246))
+#### TLS 1.0
 - Renamed "TLS" when "SSL" becomeopen standard
 - Protocol ownership transferred to [IETF](https://www.ietf.org/about/introduction/)
   - SSL is a protoclo invented by Netscape
@@ -43,11 +43,15 @@
   - Required support for additional key exchange;
 - Major vulnerability is BEAST (attach on CBC ciphers). It is mitigated in most modern browsers
 
-#### TLS 1.1 ([RFC 4346](https://www.rfc-editor.org/rfc/rfc4346))
+#### TLS 1.1
 - Formally deprecated "EXPORT grade" ciphers
 - Protection against BEAST (vulnerability in TLC 1.0);
 - Officialy TLS 1.0 and TLS 1.1 are deprecated as of March 2021 (RFC 8996). Both versions are not recommended for use on a public Internet
 
+#### TLS 1.2
+- Large similar to TLS 1.1
+- Improved security of session key generation
+- Introduced support for AEAD Ciphers
 
 
 
