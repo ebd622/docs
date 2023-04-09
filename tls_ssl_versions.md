@@ -4,7 +4,7 @@
 * SSL - Secure Socket Layer
 * Terms TLS and SSL are mostly interchangeable
 
-| SSL/TLS |  Year   |Mainteined|   RFC   |
+| SSL/TLS |  Introduced   |Mainteined|   RFC   |
 |:-------:|:-------:|:--------:|:-------:|
 |`SSL 1.0` |  1994  | Netscape |  - |
 |`SSL 2.0` |  1995  | Netscape |  - |
@@ -12,7 +12,7 @@
 |`TLS 1.0` |  1999  |  IETF    | [RFC 2246](https://www.rfc-editor.org/rfc/rfc2246) |
 |`TLS 1.1` |  2006  |  IETF    | [RFC 4346](https://www.rfc-editor.org/rfc/rfc4346) |
 |`TLS 1.2` |  2008  |  IETF    | [RFC 5246](https://www.rfc-editor.org/rfc/rfc5246) |
-|`TLS 1.3` |  2018  |  IETF    | [RFC xxxx](https://www.rfc-editor.org/rfc/rfc2246) |
+|`TLS 1.3` |  2018  |  IETF    | [RFC 8446](https://www.rfc-editor.org/rfc/rfc8446) |
 
 
 #### SSL 1.0
