@@ -10,9 +10,9 @@
 |`SSL 2.0` |  1995  | Netscape |  - |
 |`SSL 3.0` |  1996  | Netscape |  - |
 |`TLS 1.0` |  1999  |  IETF    | [RFC 2246](https://www.rfc-editor.org/rfc/rfc2246) |
-|`TLS 1.1` |  2006  |  IETF    |  1999   |
-|`TLS 1.2` |  2008  |  IETF    |  1999   |
-|`TLS 1.3` |  2018  |  IETF    |  1999   |
+|`TLS 1.1` |  2006  |  IETF    | [RFC 4346](https://www.rfc-editor.org/rfc/rfc4346) |
+|`TLS 1.2` |  2008  |  IETF    | [RFC 5246](https://www.rfc-editor.org/rfc/rfc5246) |
+|`TLS 1.3` |  2018  |  IETF    | [RFC xxxx](https://www.rfc-editor.org/rfc/rfc2246) |
 
 
 #### SSL 1.0
