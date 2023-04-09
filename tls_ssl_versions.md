@@ -57,7 +57,7 @@
 - Major changes from prior versions of TLS/SSL;
 - Shorter handshake (2 messages vs 5+)
 - 0-RTT (round trip time) resuumption
-- Forward Secrecy required
+- Forward Secrecy required (incredibly important concept in crypthography. Using it is a huge step forward for security)
 - AEAD cihers required
 
 
