@@ -4,7 +4,7 @@
 * SSL - Secure Socket Layer
 * Terms TLS and SSL are mostly interchangeable
 
-| SSL/TLS |  Introduced   |Mainteined|   RFC   |
+| SSL/TLS |  Introduced year   |Invented/Mainteined|   RFC   |
 |:-------:|:-------:|:--------:|:-------:|
 |`SSL 1.0` |  1994  | Netscape |  - |
 |`SSL 2.0` |  1995  | Netscape |  - |
