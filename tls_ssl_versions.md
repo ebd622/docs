@@ -56,7 +56,7 @@
 #### TLS 1.3
 - Major changes from prior versions of TLS/SSL;
   - Shorter handshake (2 messages vs 5+)
-  - RSA is not longer supported as a method for key-exchange. Diffie-Hellman is a more common way nowadays for exchaning sessin keys.
+  - RSA is not longer supported as a method for key-exchange. [Diffie-Hellman](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) method is a more common way nowadays for exchaning sessin keys.
   - 0-RTT (round trip time) resuumption
   - Forward Secrecy required (incredibly important concept in crypthography. Using it is a huge step forward for security)
   - AEAD cihers required
