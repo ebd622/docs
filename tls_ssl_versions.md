@@ -56,6 +56,7 @@
 #### TLS 1.3
 - Major changes from prior versions of TLS/SSL;
   - Shorter handshake (2 messages vs 5+)
+  - RSA is not longer supported as a method for key-exchange
   - 0-RTT (round trip time) resuumption
   - Forward Secrecy required (incredibly important concept in crypthography. Using it is a huge step forward for security)
   - AEAD cihers required
