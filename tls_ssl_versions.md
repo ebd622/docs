@@ -45,7 +45,7 @@
 
 #### TLS 1.1
 - Formally deprecated "EXPORT grade" ciphers
-- Protection against BEAST (vulnerability in TLC 1.0);
+- Protection against [BEAST](https://crashtest-security.com/ssl-beast-attack-tls/) (vulnerability in TLC 1.0);
 - Officialy TLS 1.0 and TLS 1.1 are deprecated as of March 2021 (RFC 8996). Both versions are not recommended for use on a public Internet
 
 #### TLS 1.2
