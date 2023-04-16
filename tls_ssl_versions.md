@@ -7,7 +7,7 @@
 | SSL/TLS |  Introduced year   |Invented/Mainteined|   RFC   | Recommended to use | 
 |:-------:|:-------:|:--------:|:-------:|:-------:|
 |`SSL 1.0` |  1994  | Netscape |  - | No |
-|`SSL 2.0` |  1995  | Netscape |  - | No |
+|[`SSl 3.0`] |  1995  | Netscape |  - | No |
 |[`SSl 3.0`](https://github.com/ebd622/docs/blob/main/tls_ssl_versions.md#ssl-30) |  1996  | Netscape |  - | No |
 |[`TLS 1.0`](https://github.com/ebd622/docs/blob/main/tls_ssl_versions.md#tls-10) |  1999  |  IETF    | [RFC 2246](https://www.rfc-editor.org/rfc/rfc2246) | No (as of March 2021)|
 |[`TLS 1.1`](https://github.com/ebd622/docs/blob/main/tls_ssl_versions.md#tls-11) |  2006  |  IETF    | [RFC 4346](https://www.rfc-editor.org/rfc/rfc4346) | No (as of March 2021)|
