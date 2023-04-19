@@ -80,6 +80,9 @@ The  biggest problem of symmetric key cryptography is key distribution.
 Algorithms like RSA we can be used for different things with private and publik keys:
 * Encrypt
 * Decrypt
+* Sign
+* Verify
+* Authenticate (Sign + Verify)
 
 ## Resurces
 * https://library.ahima.org/doc?oid=104090#.ZBV-TOzMJUd
