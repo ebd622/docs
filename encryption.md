@@ -76,6 +76,10 @@ The  biggest problem of symmetric key cryptography is key distribution.
   <img src="images/rsa_4.svg" width="60%">
 </p>
 
+## Using Asymmetric Encryption
+Algorithms like RSA we can be used for different things with private and publik keys:
+* Encrypt
+* Decrypt
 
 ## Resurces
 * https://library.ahima.org/doc?oid=104090#.ZBV-TOzMJUd
