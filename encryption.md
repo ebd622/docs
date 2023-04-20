@@ -84,7 +84,7 @@ Algorithms like RSA we can be used for different things with private and publik 
 * Verify
 * Authenticate (Sign + Verify)
 
-`Private key` is used to sign something (i.e. to create a signature). Public key is used to verify a signature.
+`Private key` is used to **sign** something (i.e. to create a signature). Public key is used to verify a signature.
 
 So, one person can sign and everyone can verify.
 
