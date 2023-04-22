@@ -7,4 +7,4 @@
 
   The subject field typically includes information such as the domain name or IP address of the entity, along with other identifying information such as the organization name, location, and contact information. The subject field is used by the client to verify the identity of the server or other entity it is communicating with over the TLS connection.
   
-* Issuer 
+* Issuer  is the entity that actually issues the certificate, which can be either a CA or the entity (for examppe, a company) itself.
