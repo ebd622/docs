@@ -9,3 +9,4 @@
   
 
 ## Resourcses
+* https://youtu.be/kAaIYRJoJkc
