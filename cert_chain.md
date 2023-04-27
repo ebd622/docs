@@ -7,6 +7,9 @@
 
   The subject field typically includes information such as the domain name or IP address of the entity, along with other identifying information such as the organization name, location, and contact information. The subject field is used by the client to verify the identity of the server or other entity it is communicating with over the TLS connection.
   
+## How it works
+Every browser or operating system is delivered with a set of `root cerstificate authorities` (CA) which are trusted out of the box.
+  
 
 ## Resourcses
 * https://youtu.be/kAaIYRJoJkc
