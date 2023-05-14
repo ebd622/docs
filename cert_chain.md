@@ -12,4 +12,4 @@ Every browser or operating system is delivered with a set of `root cerstificate 
   
 
 ## Resourcses
-* https://youtu.be/kAaIYRJoJkc
+* [Certificates explained]https://youtu.be/kAaIYRJoJkc
