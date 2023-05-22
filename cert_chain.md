@@ -13,3 +13,4 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 
 ## Resourcses
 * [Certificates explained](https://youtu.be/kAaIYRJoJkc)
+* https://www.youtube.com/watch?v=Z81jegMCrfk
