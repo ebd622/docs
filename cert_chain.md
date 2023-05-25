@@ -14,6 +14,7 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 <p align="center">
   <img src="images/chain_of_trust.png" width="110%">
 </p>
+
 ### Root Certificate
 * Self-signed and self-issued (Subject = Issuer)
 * Usually has long expirity date
