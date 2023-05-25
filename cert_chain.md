@@ -25,7 +25,8 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 
 #### End entity certificate
 * Indentifies an entity (website)
-* Signed by 
+* Signed by Intermediate CA
+* Usually shortest expirity time
 
 
 ## Resourcses
