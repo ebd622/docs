@@ -11,7 +11,9 @@
 Every browser or operating system is delivered with a set of `root cerstificate authorities` (CA) which are trusted out of the box.
   
 ## Chain of trust
-TODO
+<p align="center">
+  <img src="images/sym_enc.drawio.svg" width="50%">
+</p>
 
 ## Resourcses
 * [Certificates explained](https://youtu.be/kAaIYRJoJkc)
