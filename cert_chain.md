@@ -14,6 +14,7 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 <p align="center">
   <img src="images/chain_of_trust.png" width="110%">
 </p>
+* Root certificate is selfsigned certificate (Subject = Issuer)
 
 ## Resourcses
 * [Certificates explained](https://youtu.be/kAaIYRJoJkc)
