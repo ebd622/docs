@@ -15,10 +15,14 @@ Every browser or operating system is delivered with a set of `root cerstificate 
   <img src="images/chain_of_trust.png" width="110%">
 </p>
 
-### Root Certificate
+#### Root Certificate
 * Self-signed and self-issued (Subject = Issuer)
 * Usually has long expirity date
 * Trusted by web-browsers, applications and etc
+
+#### Intermediate Certificate
+
+
 
 ## Resourcses
 * [Certificates explained](https://youtu.be/kAaIYRJoJkc)
