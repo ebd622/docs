@@ -12,7 +12,7 @@ Every browser or operating system is delivered with a set of `root cerstificate 
   
 ## Chain of trust
 <p align="center">
-  <img src="images/sym_enc.drawio.svg" width="50%">
+  <img src="images/chain_of_trust.png" width="50%">
 </p>
 
 ## Resourcses
