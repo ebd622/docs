@@ -21,7 +21,11 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 * Trusted by web-browsers, applications and etc
 
 #### Intermediate Certificate
+* Signed by Root
 
+#### End entity certificate
+* Indentifies an entity (website)
+* Signed by 
 
 
 ## Resourcses
