@@ -13,7 +13,9 @@
 ## How it works
 Every browser or operating system is delivered with a set of `root cerstificate authorities` (CA) which are trusted out of the box.
 
-Root certificate includes a public key which is used to verify a signuture. Root certificate **doen't include** a private key.
+**Root certificate** includes a public key which is used to verify a signuture. Root certificate *doen't include* a private key.
+
+**Intermediate certificate** is issued by a root certificate authority (CA) and is used to issue end-entity certificates. It includes both private and public keys
   
 ## Chain of trust
 <p align="center">
