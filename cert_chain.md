@@ -15,7 +15,9 @@ Every browser or operating system is delivered with a set of `root cerstificate 
 
 **Root certificate** includes a public key which is used to verify a signuture. Root certificate *doen't include* a private key.
 
-**Intermediate certificate** is issued by a root certificate authority (CA) and used to issue end-entity certificates. It includes both private and public keys
+**Intermediate certificate** is issued by a root certificate authority (CA) and used to issue end-entity certificates. It includes both private and public keys.
+
+**End-entity certificate** is issued by intermediate certificate. It can be either a client a server certificate. It includes both private and public keys.
   
 ## Chain of trust
 <p align="center">
