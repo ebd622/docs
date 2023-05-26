@@ -3,7 +3,8 @@
 ## Key Terms
 * **CA** (Certificate Authority) is a trusted third-party organization that issues digital certificates to entities such as websites, servers and clients.
   * Reponsible for issuing digital certificates;
-  * External to organisation and they charge for the service (e.g. VeriSign, ClobalSign and etc.)
+  * External to organisation and they charge for the service (e.g. VeriSign, ClobalSign and etc.) These are commercial CAs;
+  * Can be also internal to organisation
 * **Issuer**  is the entity that actually issues the certificate, which can be either a CA or the entity (for examppe, a company) itself.
 * **Subject** is a field within the digital certificate that identifies the entity that the certificate is issued to.
 
