@@ -1,5 +1,5 @@
 # Certificate Chain
-
+**PKI** (stands for Public Key Infrastructure) it is a system of technologies, processes, and policies that enables the secure exchange of digital information through the use of public key cryptography.
 ## Key Terms
 * **CA** (Certificate Authority) is a trusted third-party organization that issues digital certificates to entities such as websites, servers and clients.
   * Reponsible for issuing digital certificates;
