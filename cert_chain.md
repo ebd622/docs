@@ -2,7 +2,7 @@
 **PKI** (stands for [Public Key Infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)) it is a system of technologies, processes, and policies that enables the secure exchange of digital information through the use of public key cryptography.
 
 **Certificate chains** are an essential component of PKI system, which is used to manage digital certificates and ensure the secure exchange of digital information.</br>
-Certificate chain is a series of digital certificates that are used to establish the authenticity of a digital certificate.
+Certificate chain is a set of digital certificates that are used to establish the authenticity of a digital certificate.
 
 ## Key Terms
 * **CA** (Certificate Authority) is a trusted third-party organization that issues digital certificates to entities such as websites, servers and clients.
