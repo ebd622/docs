@@ -12,7 +12,11 @@ In summary, the main difference between a keystore and a truststore is that a ke
 ## Purpose
 * Keystore is used by KeyManager, trust store is used by TrustManager;
 * Keystore is used to authenticate the identity of a server to a client during an SSL/TLS handshake. After that a secure connection can be established.
+TODO
 
+## Content
+* Keystore consists of private key which is configured at server side for SSL connection.  Keystore can be also configured on client side if client authentication is required at a server side.
+* Truststore consits of public keys and certificates. It is configured on the side where autjentication of other party is required.
 
 
 # References
