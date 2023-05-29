@@ -21,7 +21,13 @@ TODO
 * Truststore consits of public keys and certificates. It is configured on the side where autjentication of other party is required.
 
 TODO
-
+## Methods
+### Server authentication
+TODO
+### Client authentication
+Todo
+### Mutual TLS (mTLS)
+TODO
 Mutural TLS: You need to configure your server to require client certificate authentication and specify the CA that issued the client certificates.
 
 # References
