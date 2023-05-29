@@ -33,8 +33,8 @@ TODO
 
 
 ### Mutual TLS (mTLS)
-TODO
-Mutural TLS: You need to configure your server to require client certificate authentication and specify the CA that issued the client certificates.
+* A server verifies client's identity using client's digital certificate, and the client also verifies the server's identity using the server's digital certificate.
+* mTLS needs to be configured on a server side, a server needs to require client certificate authentication. Also the CA that issued the client certificates should be specified on a server side
 
 # References
 * https://www.youtube.com/watch?v=Ur9LlNOYnRg
