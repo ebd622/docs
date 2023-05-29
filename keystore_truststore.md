@@ -28,7 +28,10 @@ TODO
 
 
 ### Client authentication
-Todo
+* Client presents a digital certificate to the server, which contains information about the client's identity and is signed by a trusted CA. 
+* The server can verify the client's identity by checking the certificate's signature and the CA that issued the certificate.
+
+
 ### Mutual TLS (mTLS)
 TODO
 Mutural TLS: You need to configure your server to require client certificate authentication and specify the CA that issued the client certificates.
