@@ -22,5 +22,7 @@ TODO
 
 TODO
 
+Mutural TLS: You need to configure your server to require client certificate authentication and specify the CA that issued the client certificates.
+
 # References
 * https://www.youtube.com/watch?v=Ur9LlNOYnRg
