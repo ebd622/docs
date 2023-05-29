@@ -23,7 +23,10 @@ TODO
 TODO
 ## Methods
 ### Server authentication
-TODO
+* Server presents a digital certificate to the client, which contains information about the server's identity and is signed by a trusted CA. 
+* The client can verify the server's identity by checking the certificate's signature and the CA that issued the certificate.
+
+
 ### Client authentication
 Todo
 ### Mutual TLS (mTLS)
