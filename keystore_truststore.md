@@ -38,3 +38,4 @@ TODO
 
 # References
 * https://www.youtube.com/watch?v=Ur9LlNOYnRg
+* https://www.java67.com/2012/12/difference-between-truststore-vs.html
