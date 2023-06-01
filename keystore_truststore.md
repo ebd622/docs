@@ -10,6 +10,7 @@ A truststore is a repository that contains trusted digital certificates used to 
 In summary, the main difference between a keystore and a truststore is that a keystore is used to store private keys and their corresponding digital certificates, while a truststore is used to store trusted public keys of other parties. The keystore is used by the server to prove its identity to the client, while the truststore is used by the client to verify the identity of the server.
 
 ## Purpose
+* KeyStores provide credentials, TrustStores verify credentials;
 * Keystore is used by KeyManager, trust store is used by TrustManager;
 * Keystore is used to authenticate the identity of a server to a client during an SSL/TLS handshake. After that a secure connection can be established.
 
