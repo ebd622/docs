@@ -21,6 +21,9 @@ TODO
 * Keystore can be also configured on client side if client authentication is required at a server side. Client uses its private key (stored in keystore) to sign a piece of data that is sent to the server as a part of handshake. 
 * Truststore consits of public keys and certificates. It is configured on the side where autjentication of other party is required.
 
+## Formats for Certificates
+
+
 TODO
 ## Methods
 ### Server authentication
