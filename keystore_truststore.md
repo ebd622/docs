@@ -46,6 +46,6 @@ TODO
 * mTLS needs to be configured on a server side, a server needs to require client certificate authentication. Also the CA that issued the client certificates should be specified on a server side
 
 # References
-* https://www.youtube.com/watch?v=Ur9LlNOYnRg
+* [Keystore VS Truststore ](https://www.youtube.com/watch?v=Ur9LlNOYnRg)
 * https://www.java67.com/2012/12/difference-between-truststore-vs.html
 * https://robinhowlett.com/blog/2016/01/05/everything-you-ever-wanted-to-know-about-ssl-but-were-afraid-to-ask/
