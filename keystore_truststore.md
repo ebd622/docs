@@ -47,5 +47,5 @@ TODO
 
 # References
 * [Keystore VS Truststore ](https://www.youtube.com/watch?v=Ur9LlNOYnRg)
-* https://www.java67.com/2012/12/difference-between-truststore-vs.html
+* [Difference between trustStore vs keyStore in Java SSL] https://www.java67.com/2012/12/difference-between-truststore-vs.html
 * https://robinhowlett.com/blog/2016/01/05/everything-you-ever-wanted-to-know-about-ssl-but-were-afraid-to-ask/
