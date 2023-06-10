@@ -44,6 +44,10 @@ TODO
 ### Mutual TLS (mTLS)
 * A server verifies client's identity using client's digital certificate, and the client also verifies the server's identity using the server's digital certificate.
 * mTLS needs to be configured on a server side, a server needs to require client certificate authentication. Also the CA that issued the client certificates should be specified on a server side
+* 
+<p align="center">
+  <img src="images/chain_of_trust.png" width="110%">
+</p>
 
 # References
 * [Keystore VS Truststore ](https://www.youtube.com/watch?v=Ur9LlNOYnRg)
