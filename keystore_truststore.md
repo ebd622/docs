@@ -14,8 +14,6 @@ In summary, the main difference between a keystore and a truststore is that a ke
 * Keystore is used by [KeyManager](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/javax/net/ssl/KeyManager.html), truststore is used by [TrustManager](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/javax/net/ssl/TrustManager.html);
 * Keystore is used to authenticate the identity of a server to a client during an SSL/TLS handshake. After that a secure connection can be established.
 
-TODO
-
 ## Content
 * Keystore consists of private key which is configured at server side for SSL connection.  
 * Keystore can be also configured on client side if client authentication is required at a server side. Client uses its private key (stored in keystore) to sign a piece of data that is sent to the server as a part of handshake. 
