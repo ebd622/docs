@@ -44,7 +44,7 @@ TODO
 * mTLS needs to be configured on a server side, a server needs to require client certificate authentication. Also the CA that issued the client certificates should be specified on a server side
 
 <p align="center">
-  <img src="images/mtls_key_trust.png" width="70%">
+  <img src="images/mTLS.png" width="70%">
 </p>
 
 # References
