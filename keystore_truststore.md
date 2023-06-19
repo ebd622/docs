@@ -34,7 +34,7 @@ TODO
 * The client can verify the server's identity by checking the certificate's signature and the CA that issued the certificate.
 
 <p align="center">
-  <img src="images/mTLS.png" width="70%">
+  <img src="images/ServerAuth.png" width="70%">
 </p>
 
 ### Client authentication
