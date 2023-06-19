@@ -33,6 +33,9 @@ TODO
 * Server presents a digital certificate to the client, which contains information about the server's identity and is signed by a trusted CA. 
 * The client can verify the server's identity by checking the certificate's signature and the CA that issued the certificate.
 
+<p align="center">
+  <img src="images/mTLS.png" width="70%">
+</p>
 
 ### Client authentication
 * Client presents a digital certificate to the server, which contains information about the client's identity and is signed by a trusted CA. 
