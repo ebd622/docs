@@ -19,14 +19,10 @@ In summary, the main difference between a keystore and a truststore is that a ke
 * Keystore can be also configured on client side if client authentication is required at a server side. Client uses its private key (stored in keystore) to sign a piece of data that is sent to the server as a part of handshake. 
 * Truststore consits of public keys and certificates. It is configured on the side where autjentication of other party is required.
 
-TODO
 ## Formats for Certificates
 * Privacy-Enhanced Mail (**PEM**) is Distinguished Encoding Rules (DER) that has been Base64 encoded. Used for keys and certificates.
 * **PKCS12** is a password-protected format that can contain multiple certificates and keys.
 * Java KeyStore (**JKS**) is Java version of PKCS12 and also password protected. Entries in a JKS file must have an “alias” that is unique. If an alias is not specified, “mykey” is used by default. It’s like a database for certs and keys.
-
-
-
 
 ## Methods
 ### Server authentication
