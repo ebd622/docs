@@ -26,7 +26,7 @@ In summary, the main difference between a keystore and a truststore is that a ke
 
 ## Methods
 ### Server authentication
-According to TLS specification, a client should always validate a server cert.
+According to (TLS1.3)[https://www.rfc-editor.org/rfc/rfc8446#appendix-C.2] specification, a client should always validate a server cert.
 * Server presents a digital certificate to the client, which contains information about the server's identity and is signed by a trusted CA. 
 * The client can verify the server's identity by checking the certificate's signature and the CA that issued the certificate.
 
