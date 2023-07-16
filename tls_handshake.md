@@ -3,7 +3,7 @@
 TLS Handshake creates a "protected tunnel" between Client and Server, it protects Bulk Data transfer with CIA (Confidentiality, Integrity, and Availability)
 
 
-TLS 1.2 uses RSA for Key Exchage, TLS 1.3 uses more advanced approach. Handshake in TLS 1.3 is faster.
+TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses more advanced approach. Handshake in TLS 1.3 is faster.
 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
