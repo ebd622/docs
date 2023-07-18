@@ -54,3 +54,4 @@ According to [TLS1.3](https://www.rfc-editor.org/rfc/rfc8446#appendix-C.2) speci
 * [Keystore VS Truststore ](https://www.youtube.com/watch?v=Ur9LlNOYnRg)
 * [Difference between trustStore vs keyStore in Java SSL](https://www.java67.com/2012/12/difference-between-truststore-vs.html)
 * [What you need to know about SSL/TLS](https://robinhowlett.com/blog/2016/01/05/everything-you-ever-wanted-to-know-about-ssl-but-were-afraid-to-ask/)
+* https://magicmonster.com/kb/prg/java/ssl/pkix_path_building_failed/
