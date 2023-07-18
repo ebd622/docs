@@ -24,6 +24,9 @@ In summary, the main difference between a keystore and a truststore is that a ke
 * **PKCS12** is a password-protected format that can contain multiple certificates and keys.
 * Java KeyStore (**JKS**) is Java version of PKCS12 and also password protected. Entries in a JKS file must have an “alias” that is unique. If an alias is not specified, “mykey” is used by default. It’s like a database for certs and keys.
 
+## Java truststore
+JDK
+
 ## Methods
 ### Server authentication
 According to [TLS1.3](https://www.rfc-editor.org/rfc/rfc8446#appendix-C.2) specification, a client should always validate a server cert. But this may depend on [implementation](https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations) ([OpenSSL](https://www.openssl.org/), [GnuTLS](https://www.gnutls.org/), [JSSE](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/JSSERefGuide.html)).
