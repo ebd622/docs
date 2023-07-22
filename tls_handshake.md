@@ -8,12 +8,18 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
 TODO diagram
 
 1. Client Hello
+   Client sends the following data
+   * Ver. - Highest TLS version that client supports
+   * Rand# - Random number (32 bytes/256 bit). Timestamp encoded in first four bytes
+   * Session ID
+   * Cipher Suites
+   * Extensions
 
-2. Server Hello
-3. Key exchange, cipher spec. Finished
-4. Change cipher spec. Finished
-5. HTTP Request
-6. HTTP Response
+3. Server Hello
+4. Key exchange, cipher spec. Finished
+5. Change cipher spec. Finished
+6. HTTP Request
+7. HTTP Response
    
 
 ### Resourcses
