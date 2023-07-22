@@ -9,7 +9,12 @@ TODO diagram
 
 1. Client Hello
 
-2. Server Hello 
+2. Server Hello
+3. Key exchange, cipher spec. Finished
+4. Change cipher spec. Finished
+5. HTTP Request
+6. HTTP Response
+   
 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
