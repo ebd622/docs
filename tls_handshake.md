@@ -27,4 +27,5 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
 - [TLS Handshake](https://youtu.be/ZkL10eoG1PY)
+- https://youtu.be/JA0vaIb4158
 - [Key differences Between TLS 1.2 and TLS 1.3](https://www.a10networks.com/glossary/key-differences-between-tls-1-2-and-tls-1-3/)
