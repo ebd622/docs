@@ -13,7 +13,7 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
    Client sends the following data
    * Ver. - Highest TLS version that client supports
    * Rand# - Random number (32 bytes/256 bit). Timestamp encoded in first four bytes
-   * Session ID
+   * Session ID - 8 byte value used to identify this specific session
    * Cipher Suites
    * Extensions
 
