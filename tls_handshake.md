@@ -18,7 +18,7 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
    * **Extensions** - optional additional features added to TLS/SSL
 
 3. Server Hello
-  * **Ver.** - Highest TLS version that client supports
+  * Ver. 
 
 4. Key exchange, cipher spec. Finished
 5. Change cipher spec. Finished
