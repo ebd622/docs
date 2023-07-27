@@ -10,7 +10,6 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
 </p>
 
 1. Client Hello
-
    Client sends the following data
    * **Ver.** - Highest TLS version that client supports
    * **Rand#** - Random number (32 bytes/256 bit). Timestamp encoded in first four bytes
