@@ -19,6 +19,7 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
   
 3. Server Hello
     * Ver.
+    * Rand# 
 
 
 
