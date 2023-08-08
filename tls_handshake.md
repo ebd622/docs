@@ -24,13 +24,12 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
     * Cipher Suites
     * **Extensions** - optional additional features added to TLS/SSL
 
-
-
 4. Key exchange, cipher spec. Finished
 5. Change cipher spec. Finished
 6. HTTP Request
 7. HTTP Response
 
+### Round Trips
 [Client-Server Hello, Certificate Check] and [Key Exchange] are *Round Trips*. So, handshake in TLS1.2 has Two Round Trips (2RTT) before data transmission. 
 
 ### Resourcses
