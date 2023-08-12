@@ -35,6 +35,11 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
 #### Round Trips
 Communications [**Client-Server Hello, Certificate Check**] and [**Key Exchange**] on the diagram above are called *Round Trips*. So, TLS1.2 handshake requires two Round Trips to complete before data transmission will start. It is also called two round trips time (abbreviated as **2RTT**).
 
+<p align="center">
+  <img src="images/tls1_2_RTT.svg" width="70%">
+</p>
+
+
 ### TLS 1.3 Handshake
 TODO
 ### Resourcses
