@@ -42,6 +42,12 @@ Communications [**Client-Server Hello, Certificate Check**] and [**Key Exchange*
 
 ### TLS 1.3 Handshake
 TODO
+
+<p align="center">
+  <img src="images/tls1_3_RTT.svg" width="70%">
+</p>
+
+
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
 - [TLS Handshake](https://youtu.be/ZkL10eoG1PY)
