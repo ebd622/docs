@@ -17,17 +17,18 @@ TLS 1.2 uses RSA for Key Exchage, in TLS 1.3 RSA has been removed. TLS 1.3 uses 
    * **Cipher Suites** - list of Cipher Suites that Client supports in an order which Client prefers
    * **Extensions** - optional additional features added to TLS/SSL
   
-3. Server Hello
+2. Server Hello
     * Ver.
     * Rand#
     * Session ID
     * Cipher Suites - list of Cipher Suites that Server supports
     * **Extensions** - optional additional features added to TLS/SSL
 
-4. Key exchange, cipher spec. Finished
-5. Change cipher spec. Finished
-6. HTTP Request
-7. HTTP Response
+3. Key exchange, cipher spec. Finished
+4. Change cipher spec. Finished
+5. Data transmission
+    * Send encrypted data
+    * Get encrypted data
 
 #### Round Trips
 Communications [**Client-Server Hello, Certificate Check**] and [**Key Exchange**] on the diagram above are called *Round Trips*. So, TLS1.2 handshake requires two Round Trips to complete before data transmission will start. It is also called two round trips time (abbreviated as **2RTT**).
