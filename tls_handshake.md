@@ -47,7 +47,8 @@ TLS 1.3 offers several improvements over earlier versions, most notably a faster
   <img src="images/tls1_3_RTT.svg" width="70%">
 </p>
 
-TODO
+TLS 1.3 features
+* TLS 1.3 handshake is shorter (2RTT -> 1RTT).
 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
