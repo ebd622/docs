@@ -47,7 +47,8 @@ TLS 1.3 offers several improvements over earlier versions, most notably a faster
   <img src="images/tls1_3_RTT.svg" width="70%">
 </p>
 
-TLS 1.3 features
+#### TLS 1.3 key features
+* RSA has been removed, it uses [Diffie–Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange);
 * TLS 1.3 handshake is shorter (2RTT -> 1RTT).
 * There is also way to do 0RTT: clent sends encrypted application data with a Client Hello in the first message to TLS web server.
 * Most of handshate messages are encrypted
