@@ -41,12 +41,13 @@ Communications [**Client-Server Hello, Certificate Check**] and [**Key Exchange*
 
 
 ### TLS 1.3 Handshake
-TODO
+TLS 1.3 offers several improvements over earlier versions, most notably a faster TLS handshake.
 
 <p align="center">
   <img src="images/tls1_3_RTT.svg" width="70%">
 </p>
 
+TODO
 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
