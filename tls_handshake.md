@@ -49,6 +49,7 @@ TLS 1.3 offers several improvements over earlier versions, most notably a faster
 
 TLS 1.3 features
 * TLS 1.3 handshake is shorter (2RTT -> 1RTT).
+* There is also way to do 0RTT: clent sends encrypted application data with a Client Hello in the first message to TLS web server.
 
 ### Resourcses
 - [SSL, TLS, HTTPS Explained](https://youtu.be/j9QmMEWmcfo)
