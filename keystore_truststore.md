@@ -28,7 +28,7 @@ In summary, the main difference between a keystore and a truststore is that a ke
 Java distribution includes a file `$JAVA_HOME/lib/security/cacerts`, it is a collection of trusted certificate authority (CA) certificates. This is default trustore for JVM. A list of certificates, included into `cacerts`, may be different for different JVMs, it depends on a vendor.
 
 ## Passwords
-Both keystore and truststore are secured with a password.
+Both keystore and truststore are secured with a password. A password is used to protect the integrity of a keystore. if you don't provide any store password, you can still read the contents of a store. The command keytool -list demonstrates this behavior (use it with an empty password).
 
 ## Methods
 ### Server authentication
