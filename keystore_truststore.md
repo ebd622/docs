@@ -27,6 +27,9 @@ In summary, the main difference between a keystore and a truststore is that a ke
 ## Java truststore
 Java distribution includes a file `$JAVA_HOME/lib/security/cacerts`, it is a collection of trusted certificate authority (CA) certificates. This is default trustore for JVM. A list of certificates, included into `cacerts`, may be different for different JVMs, it depends on a vendor.
 
+## Passwords
+Both keystore and truststore are secured with a password.
+
 ## Methods
 ### Server authentication
 According to [TLS1.3](https://www.rfc-editor.org/rfc/rfc8446#appendix-C.2) specification, a client should always validate a server cert. But this may depend on [implementation](https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations) ([OpenSSL](https://www.openssl.org/), [GnuTLS](https://www.gnutls.org/), [JSSE](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/JSSERefGuide.html)).
