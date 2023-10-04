@@ -30,6 +30,9 @@ Java distribution includes a file `$JAVA_HOME/lib/security/cacerts`, it is a col
 ## Passwords
 Both keystore and truststore are secured with a password. A password is used to protect the integrity of a keystore. if you don't provide any store password, you can still read the contents of a store. The command keytool -list demonstrates this behavior (use it with an empty password).
 
+## Empty KeyStore
+[KeyStore](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/KeyStore.html) is used by both 
+
 ## Methods
 ### Server authentication
 According to [TLS1.3](https://www.rfc-editor.org/rfc/rfc8446#appendix-C.2) specification, a client should always validate a server cert. But this may depend on [implementation](https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations) ([OpenSSL](https://www.openssl.org/), [GnuTLS](https://www.gnutls.org/), [JSSE](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jsse/JSSERefGuide.html)).
