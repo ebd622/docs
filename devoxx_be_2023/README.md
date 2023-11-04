@@ -14,7 +14,9 @@ Talks:
 ##### The impact of virtual threads
   * Two incarnations of thread (5:50):
     * Platform therad - traditional operating system thread
-    * Virtual thread 
+    * Virtual thread
+  * Virtual thread is attacted to a platform thread whenever it performs work
+  * Virtual thread has abitilty to detach itelf from a platform thread whenever it hits a blocking point
 
 ##### Deep dive: Spring's runtime efficiency theme
 
