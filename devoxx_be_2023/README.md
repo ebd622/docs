@@ -5,3 +5,9 @@ Talks:
 
 ## AI
 [JetBrains AI: A Deep Dive](https://www.youtube.com/watch?v=MYhkTnag81o&t=1524s)
+
+
+## Server Side Java
+### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
+* https://devoxx.be/talk/?id=20285
+* https://www.youtube.com/watch?v=YfFYTR8_lBY
