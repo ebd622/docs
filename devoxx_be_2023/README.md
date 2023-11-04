@@ -11,3 +11,8 @@ Talks:
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
 * https://www.youtube.com/watch?v=YfFYTR8_lBY
+##### The impact of virtual threads
+
+##### Deep dive: Spring's runtime efficiency theme
+
+##### Deep dive: Spring's cleint-side HTTP support
