@@ -8,6 +8,6 @@ Talks:
 
 
 ## Server Side Java
-### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
+#### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
 * https://www.youtube.com/watch?v=YfFYTR8_lBY
