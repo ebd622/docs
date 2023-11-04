@@ -12,6 +12,9 @@ Talks:
 * https://devoxx.be/talk/?id=20285
 * https://www.youtube.com/watch?v=YfFYTR8_lBY
 ##### The impact of virtual threads
+  * Two incarnations of thread (5:50):
+    * Platform therad - traditional operating system thread
+    * Virtual thread 
 
 ##### Deep dive: Spring's runtime efficiency theme
 
