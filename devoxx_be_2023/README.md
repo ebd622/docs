@@ -15,7 +15,7 @@ Talks:
   * Two incarnations of thread (5:50):
     * Platform therad (PT) - traditional operating system thread
     * Virtual thread (VT)
-  * Virtual thread is attacted to a platform thread whenever it performs work
+  * VT is attacted to PT whenever it performs work
   * Virtual thread has abitilty to detach itelf from a platform thread whenever it hits a blocking point (so, it is never blocks a platfoem thread)
   * Whenever a blocking conditions is being released, a VT is reatached to PT again
   * The most important aspect of adopting VT in a Spting stack is the server container setup (8:57)
