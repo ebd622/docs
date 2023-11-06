@@ -7,6 +7,9 @@ Talks:
 [JetBrains AI: A Deep Dive](https://www.youtube.com/watch?v=MYhkTnag81o&t=1524s)
 
 ## Java
+#### Asynchronous Programming in Java: Options to Choose from
+https://devoxx.be/talk/?id=64003
+https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
