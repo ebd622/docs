@@ -11,6 +11,8 @@ Talks:
 * https://devoxx.be/talk/?id=64003
 * https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
+* Why not callback (25:00)
+
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
