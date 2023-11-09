@@ -15,6 +15,10 @@ Talks:
 * Parallel vs Concurrent
 * Parallel vs Async
 * Why not callback (23:40)
+  * How to handle callback?
+  * There is no standard as whether you get data first of the error first
+  * There is no standard as whtat to do if the callback itself were to fail
+  * How to you deal with multiple level of nested 
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
