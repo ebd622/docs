@@ -26,7 +26,7 @@ Talks:
   * Traditional Spring MVC setup (on either Tomcat or Jetty) runs withing a thread pool managed by a server container:
     *  Server container has an HTTP connector;
     *  A connector has an executor attached
-    *  Whenever a request comes in it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
+    *  Whenever a request comes in, it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
 
 ##### Deep dive: Spring's runtime efficiency theme
 
