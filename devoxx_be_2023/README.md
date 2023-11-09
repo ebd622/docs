@@ -11,6 +11,9 @@ Talks:
 * https://devoxx.be/talk/?id=64003
 * https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
+##### Threading
+* Parallel vs Concurrent
+* Parallel vs Async
 * Why not callback (23:40)
 
 ## Server Side Java
