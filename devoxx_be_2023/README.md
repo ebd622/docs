@@ -31,6 +31,9 @@ Talks:
 * Fail on timeout (1:13:20)
 * Combine and Compose (1:14:00)
 
+##### Threads vs Virtual Threads
+* Virtual Threads (1:23:20)
+
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
