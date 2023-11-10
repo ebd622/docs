@@ -27,6 +27,7 @@ Talks:
   * Resolved
   * Rejected
 * Stream API vs CompletableFeature API (56:00)
+* Heandle exceptions in CompletableFeature (1:06:30)
 
 
 ## Server Side Java
