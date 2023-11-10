@@ -28,6 +28,7 @@ Talks:
   * Rejected
 * Stream API vs CompletableFeature API (56:00)
 * Heandle exceptions in CompletableFeature (1:06:30)
+* Fail on timeout (1:13:20)
 
 
 ## Server Side Java
