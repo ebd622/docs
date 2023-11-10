@@ -33,6 +33,7 @@ Talks:
 
 ##### Threads vs Virtual Threads
 * Virtual Threads (1:23:20)
+* Java21 is most important release of Java (because of VT). VT makes a huge change in Java eco-system!
 
 
 ## Server Side Java
