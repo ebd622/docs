@@ -25,7 +25,8 @@ Talks:
 * CompletableFuture can be in 3 states (the same like Promises): (46:23)
   * Pending
   * Resolved
-  * Rejected 
+  * Rejected
+* Stream API vs CompletableFeature API (56:00)
 
 
 ## Server Side Java
