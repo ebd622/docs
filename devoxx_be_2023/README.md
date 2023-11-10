@@ -20,6 +20,7 @@ Talks:
   * There is no standard as whtat to do if the callback itself were to fail
   * How to you deal with multiple level of nested callback?
   * Code becomes horrible
+* Concept of Promises of JavaScript
 * CompletableFuture in Java is Promises in JavaScript (42:20)
 * CompletableFuture can be in 3 states (the same like Promises): (46:23)
   * Pending
