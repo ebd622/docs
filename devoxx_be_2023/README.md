@@ -29,6 +29,7 @@ Talks:
 * Stream API vs CompletableFeature API (56:00)
 * Heandle exceptions in CompletableFeature (1:06:30)
 * Fail on timeout (1:13:20)
+* Combine and Compose (1:14:00)
 
 
 ## Server Side Java
