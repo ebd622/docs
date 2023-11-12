@@ -34,7 +34,9 @@ Talks:
 ##### Threads vs Virtual Threads
 * Virtual Threads (1:23:20)
 * Java21 is most important release of Java (because of VT). VT makes a huge change in Java eco-system!
-* Quick demo of VT with Kotlin (subroutine, coroutine, continuations) (1:28:25)
+* Quick demo of VT with Kotlin (subroutine, coroutine, continuations concept) (1:28:25)
+  * Continuation is a datastructure that halps to restore the context of a call between calls to a coroutine
+  * Continuation should be a datastructure that you bebefit from but should not have a direct access to it
 
 
 ## Server Side Java
