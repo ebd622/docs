@@ -55,6 +55,7 @@ Talks:
     *  Server container has an HTTP connector;
     *  A connector has an executor attached
     *  Whenever a request comes in, it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
+  * VTs are supper lightweight. (1:52:30)
 
 ##### Deep dive: Spring's runtime efficiency theme
 
