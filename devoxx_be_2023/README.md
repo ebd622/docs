@@ -57,6 +57,7 @@ Talks:
     *  Whenever a request comes in, it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
   * VTs are supper lightweight. They are manages by JVM, not by OS (1:52:30)
   * There is a carrier thread and VT is mounted and unmounted to a carrier thread (1:53:35)
+  * Mounting and unmouting takes some time, it is not free (1:55:00)
 
 ##### Deep dive: Spring's runtime efficiency theme
 
