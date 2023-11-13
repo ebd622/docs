@@ -58,6 +58,7 @@ Talks:
   * VTs are supper lightweight. They are manages by JVM, not by OS (1:52:30)
   * There is a carrier thread and VT is mounted and unmounted to a carrier thread (1:53:35)
   * Mounting and unmouting takes some time, it is not free (because it is not possible to get something with absolutely no overhead!) (1:55:00)
+  * Quick example (2:07:45)
 
 ##### Deep dive: Spring's runtime efficiency theme
 
