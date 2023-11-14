@@ -37,7 +37,10 @@ Talks:
 * Quick demo of VT with Kotlin (subroutine, coroutine, continuations concept) (1:28:25)
   * Continuation is a datastructure that halps to restore the context of a call between calls to a coroutine (1:44:04)
   * Continuation should be a datastructure that you bebefit from but should not have a direct access to it
-
+  * VTs are supper lightweight. They are manages by JVM, not by OS (1:52:30)
+  * There is a carrier thread and VT is mounted and unmounted to a carrier thread (1:53:35)
+  * Mounting and unmouting takes some time, it is not free (because it is not possible to get something with absolutely no overhead!) (1:55:00)
+  * Quick example (2:07:45)
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
@@ -55,10 +58,6 @@ Talks:
     *  Server container has an HTTP connector;
     *  A connector has an executor attached
     *  Whenever a request comes in, it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
-  * VTs are supper lightweight. They are manages by JVM, not by OS (1:52:30)
-  * There is a carrier thread and VT is mounted and unmounted to a carrier thread (1:53:35)
-  * Mounting and unmouting takes some time, it is not free (because it is not possible to get something with absolutely no overhead!) (1:55:00)
-  * Quick example (2:07:45)
 
 ##### Deep dive: Spring's runtime efficiency theme
 
