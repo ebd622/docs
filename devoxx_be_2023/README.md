@@ -42,6 +42,7 @@ Talks:
   * Mounting and unmouting takes some time, it is not free (because it is not possible to get something with absolutely no overhead!) (1:55:00)
   * Quick example (2:07:45)
   * Don't confuse ExecutorService with pooling (2:14:30)
+  * No any sense to pool VT (2:15:50)
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
