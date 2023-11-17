@@ -45,6 +45,7 @@ Talks:
   * No any sense to pool VT (2:15:50)
   * Coninue example with VT (2:18:10)
   * Where it makes sense to use VT? (2:24:45)
+  * What to do and what doesn't (2:26:35)
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
