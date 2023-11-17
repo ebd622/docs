@@ -44,6 +44,7 @@ Talks:
   * Don't confuse ExecutorService with pooling (2:14:30)
   * No any sense to pool VT (2:15:50)
   * Coninue example with VT (2:18:10)
+  * Where it makes sense to use VT? (2:24:45)
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
