@@ -66,4 +66,4 @@ Talks:
 
 ##### Deep dive: Spring's runtime efficiency theme
 
-##### Deep dive: Spring's cleint-side HTTP support
+##### Deep dive: Spring's cleint-side HTTP support (1:20:10)
