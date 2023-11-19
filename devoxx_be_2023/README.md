@@ -67,3 +67,4 @@ Talks:
 ##### Deep dive: Spring's runtime efficiency theme
 
 ##### Deep dive: Spring's cleint-side HTTP support (1:20:10)
+* RestTemplate intorduction 15 years ago (1:22:15)
