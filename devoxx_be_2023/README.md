@@ -71,3 +71,5 @@ Talks:
 * WebClient introduced in Spring5 (1:27:00)
 * VT (1:29:15)
   * Spring Framework 6.1 sipports VT
+  * Spring Boot 3.2 offers spring.threads.virtual.enabled
+  
