@@ -76,3 +76,4 @@ Talks:
 * Demo and samples (https://github.com/poutsma/restclient-sample) (1:35:36)
   * Use Parameeterized Types (1:49:11)
   * Error Handling (1:53:48)
+  * Exchange method (1:57:40)
