@@ -74,3 +74,4 @@ Talks:
   * Spring Boot 3.2 offers a property `spring.threads.virtual.enabled`. Setting it to `true` will enable VT for Tomcat&Jetty. (cleint applications will be running on VTs)
 * Use WebClient instead of RestTemplate? (1:34:00)
 * Demo and samples (https://github.com/poutsma/restclient-sample) (1:35:36)
+  * Use Parameeterized Types (1:49:11) 
