@@ -77,3 +77,4 @@ Talks:
   * Use Parameeterized Types (1:49:11)
   * Error Handling (1:53:48)
   * Exchange method (1:57:40)
+  * ClientRequestFactories (2:01:22)
