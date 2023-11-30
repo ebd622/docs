@@ -52,6 +52,9 @@ Talks:
 ####
 With Java 21, Your Code Runs Even Faster. But How is that Possible?
 * https://devoxx.be/talk/?id=4454
+* https://www.youtube.com/watch?v=T6X2Yytrzyg&t=682s
+
+  
 
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
