@@ -49,6 +49,10 @@ Talks:
   * Where it makes sense to use VT? (2:24:45)
   * What to do and what doesn't (2:26:35)
 
+####
+With Java 21, Your Code Runs Even Faster. But How is that Possible?
+* https://devoxx.be/talk/?id=4454
+
 ## Server Side Java
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
