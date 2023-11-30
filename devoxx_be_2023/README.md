@@ -4,6 +4,7 @@ Talks:
 * By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
 
 ## Data & AI
+https://devoxx.be/talk/?id=70102
 [JetBrains AI: A Deep Dive](https://www.youtube.com/watch?v=MYhkTnag81o&t=1524s)
 
 ## Java
