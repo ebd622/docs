@@ -49,8 +49,7 @@ Talks:
   * Where it makes sense to use VT? (2:24:45)
   * What to do and what doesn't (2:26:35)
 
-####
-With Java 21, Your Code Runs Even Faster. But How is that Possible?
+#### With Java 21, Your Code Runs Even Faster. But How is that Possible?
 * https://devoxx.be/talk/?id=4454
 * https://www.youtube.com/watch?v=T6X2Yytrzyg&t=682s
 
