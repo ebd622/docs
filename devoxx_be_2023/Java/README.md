@@ -1,9 +1,5 @@
 # Java
-Talks:
-* By session types: https://devoxx.be/2023-schedule/talks-by-sessions/
-* By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
-
-#### Asynchronous Programming in Java: Options to Choose from
+### Asynchronous Programming in Java: Options to Choose from
 * https://devoxx.be/talk/?id=64003
 * https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
