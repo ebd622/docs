@@ -3,7 +3,7 @@
 * https://devoxx.be/talk/?id=64003
 * https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
-##### Threading
+#### Threading
 * Parallel vs Concurrent
 * Parallel vs Async
 * Why not callback (23:40)
@@ -23,7 +23,7 @@
 * Fail on timeout (1:13:20)
 * Combine and Compose (1:14:00)
 
-##### Threads vs Virtual Threads
+#### Threads vs Virtual Threads
 * Virtual Threads (1:23:20)
 * Java21 is most important release of Java (because of VT). VT makes a huge change in Java eco-system!
 * Quick demo of VT with Kotlin (subroutine, coroutine, continuations concept) (1:28:25)
@@ -39,6 +39,6 @@
   * Where it makes sense to use VT? (2:24:45)
   * What to do and what doesn't (2:26:35)
 
-#### With Java 21, Your Code Runs Even Faster. But How is that Possible?
+### With Java 21, Your Code Runs Even Faster. But How is that Possible?
 * https://devoxx.be/talk/?id=4454
 * https://www.youtube.com/watch?v=T6X2Yytrzyg&t=682s
