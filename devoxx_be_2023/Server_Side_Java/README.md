@@ -1,11 +1,4 @@
 # Server side Java
-Talks:
-* By session types: https://devoxx.be/2023-schedule/talks-by-sessions/
-* By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
-
-
-
-
 #### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
 * https://www.youtube.com/watch?v=YfFYTR8_lBY
