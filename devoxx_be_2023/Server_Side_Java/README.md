@@ -1,8 +1,8 @@
 # Server side Java
-#### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
+### Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 * https://devoxx.be/talk/?id=20285
 * https://www.youtube.com/watch?v=YfFYTR8_lBY
-##### The impact of virtual threads
+#### The impact of virtual threads
   * Two incarnations of thread (5:50):
     * Platform therad (`PT`) - traditional operating system thread
     * Virtual thread (`VT`)
@@ -15,9 +15,9 @@
     *  A connector has an executor attached
     *  Whenever a request comes in, it dispatches a servlet thread to Spring MVC's dispatcher servlet and Spring takes it from there.
 
-##### Deep dive: Spring's runtime efficiency theme
+#### Deep dive: Spring's runtime efficiency theme
 
-##### Deep dive: Spring's cleint-side HTTP support (1:20:10)
+#### Deep dive: Spring's cleint-side HTTP support (1:20:10)
 * RestTemplate intorduction 15 years ago: Upsides and Downsides (1:22:15)
 * WebClient introduced in Spring5 (1:27:00)
 * VT (1:29:15)
