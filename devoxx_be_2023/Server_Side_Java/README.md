@@ -33,3 +33,4 @@
 ## Prepare for Jakarta EE 11!
 * https://devoxx.be/talk/?id=6261
 * https://www.youtube.com/watch?v=8ke0kPrg9qc
+* https://www.agilejava.eu/2023/09/05/jakarta-ee-11-is-shaping-up/
