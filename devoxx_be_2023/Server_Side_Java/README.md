@@ -29,3 +29,7 @@
   * Error Handling (1:53:48)
   * Exchange method (1:57:40)
   * ClientRequestFactories (2:01:22)
+
+## Prepare for Jakarta EE 11!
+* https://devoxx.be/talk/?id=6261
+* https://www.youtube.com/watch?v=8ke0kPrg9qc
