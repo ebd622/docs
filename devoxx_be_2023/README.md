@@ -8,6 +8,7 @@ TODO
 ## Java
 TODO
 ## Server Side Java
+* Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images
 TODO
 
 
