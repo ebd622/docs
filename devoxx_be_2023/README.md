@@ -4,6 +4,7 @@ Talks:
 * By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
 
 ## Data & AI
+* Asynchronous Programming in Java: Options to Choose from()
 TODO
 ## Java
 TODO
