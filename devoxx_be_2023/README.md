@@ -7,7 +7,8 @@ Talks:
 * [Asynchronous Programming in Java: Options to Choose from](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/Java#asynchronous-programming-in-java-options-to-choose-from)
 
 ## Java
-TODO
+* Asynchronous Programming in Java: Options to Choose from
+
 ## Server Side Java
 * [Spring Infrastructure Deep Dive: Virtual Threads, Checkpoint Restore, Native Images](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/Server_Side_Java#spring-infrastructure-deep-dive-virtual-threads-checkpoint-restore-native-images)
 * [Prepare for Jakarta EE 11](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/Server_Side_Java#prepare-for-jakarta-ee-11)
