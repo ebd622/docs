@@ -4,7 +4,7 @@
 * By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
 
 ## Data & AI
-* JetBrains AI: A Deep Dive
+* [JetBrains AI: A Deep Dive](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/AI#jetbrains-ai-a-deep-dive)
 
 ## Java
 * [Asynchronous Programming in Java: Options to Choose from](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/Java#asynchronous-programming-in-java-options-to-choose-from)
