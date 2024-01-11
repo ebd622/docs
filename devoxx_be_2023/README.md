@@ -4,7 +4,7 @@
 * By tracks: https://devoxx.be/2023-schedule/talks-by-tracks/
 
 ## Data & AI
-* [20th edition of Devoxx Belgium](https://youtu.be/ZLjornmjV04?si=ny6mt7FHURcvdYZi)
+* [20th edition of Devoxx Belgium](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/AI#20th-edition-of-devoxx-belgium)
 * [JetBrains AI: A Deep Dive](https://github.com/ebd622/docs/tree/main/devoxx_be_2023/AI#jetbrains-ai-a-deep-dive)
 
 ## Java
