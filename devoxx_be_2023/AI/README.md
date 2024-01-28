@@ -3,7 +3,7 @@
 ### 20th edition of Devoxx Belgium
 * https://youtu.be/ZLjornmjV04?si=1CCc6urOUegfQye0
 #### AI Asistant (demo intellij AI plagin)
-* Demo (37:40)
+* Demo of Intekij AI assistance (37:40)
 
 ### JetBrains AI: A Deep Dive
 * https://devoxx.be/talk/?id=70102
