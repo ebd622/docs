@@ -7,6 +7,7 @@
   * Design a case lifecycle, stages, set case statuses, add instructions to tasks
   * Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
   * [Route assignments to users and work queues](https://academy.pega.com/module/routing-assignments-users/v5/in/36626/37366)
+    * [Chalenge](https://academy.pega.com/challenge/routing-work-users/v5/in/37366)
   * Configure approval processes: cascading approvals, reporting structure, authority matrix
   * Configure and send email correspondence
   * Identify duplicate cases
