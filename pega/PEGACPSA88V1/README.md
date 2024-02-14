@@ -1,7 +1,4 @@
-# Docs and Articles
-TOC:
-* [Encryption and Decryption](encryption.md)
-* [TLS/SSL version](tls_ssl_versions.md)
-* [TLS Handshake](tls_handshake.md)
-* [Certificate Chain](cert_chain.md)
-* [Keystore vs Trustsrore](keystore_truststore.md)
+# Certified Pega System Architect
+* https://academy.pega.com/exam/certified-pega-system-architect-4
+* https://academy.pega.com/mission/system-architect/v5
+
