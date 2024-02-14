@@ -31,26 +31,26 @@
   * Configure field values
   * Create and set application settings
 * Security (5%)
- * Manage user and role assignments
- * Configure security policies
+  * Manage user and role assignments
+  * Configure security policies
 * DevOps (5%)
- * Record a unit test
- * Create and execute scenario-based test cases
- * Identify best practices for configuring unit tests
+  * Record a unit test
+  * Create and execute scenario-based test cases
+  * Identify best practices for configuring unit tests
 * User Experience (12%)
- * Customize user interface elements: dashboards, portal content
- * Configure action sets
- * Customize form appearance, visibility settings, controls
- * Add and remove fields
- * Group fields in views
- * Display list data in views; configure repeating dynamic layouts
- * Localize application content
- * Enable accessibility features in an application
+  * Customize user interface elements: dashboards, portal content
+  * Configure action sets
+  * Customize form appearance, visibility settings, controls
+  * Add and remove fields
+  * Group fields in views
+  * Display list data in views; configure repeating dynamic layouts
+  * Localize application content
+  * Enable accessibility features in an application
 * Application Development (12%)
- * Manage application development: user stories, feedback, bugs
- * Use the Estimator tool to scope a Pega Platform project
- * Create and maintain rules, rulesets, classes, inheritance
- * Debug application errors
+  * Manage application development: user stories, feedback, bugs
+  * Use the Estimator tool to scope a Pega Platform project
+  * Create and maintain rules, rulesets, classes, inheritance
+  * Debug application errors
 * Reporting (5%)
 Create business reports
 Identify types of reports
