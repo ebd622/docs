@@ -19,17 +19,17 @@
   * Automate decisions using decision tables and decision trees
   * Create and manage teams of users
 * Data and Integration (23%)
- * Configure data types, create data objects, data relationships, and field types
- * Identify and create calculated values
- * Validate data; create and configure data validation rules by using business logic
- * Manipulate application data, set default property values, configure data transforms
- * Access sourced data in a case; refresh strategies; populate user interface controls
- * Save data to a system of record
- * Simulate and add external data sources
- * Capture and present data: fields and views
- * View data in memory: clipboard tool, pyWorkPage
- * Configure field values
- * Create and set application settings
+  * Configure data types, create data objects, data relationships, and field types
+  * Identify and create calculated values
+  * Validate data; create and configure data validation rules by using business logic
+  * Manipulate application data, set default property values, configure data transforms
+  * Access sourced data in a case; refresh strategies; populate user interface controls
+  * Save data to a system of record
+  * Simulate and add external data sources
+  * Capture and present data: fields and views
+  * View data in memory: clipboard tool, pyWorkPage
+  * Configure field values
+  * Create and set application settings
 * Security (5%)
  * Manage user and role assignments
  * Configure security policies
