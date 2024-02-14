@@ -19,38 +19,38 @@
   * Automate decisions using decision tables and decision trees
   * Create and manage teams of users
 * Data and Integration (23%)
-Configure data types, create data objects, data relationships, and field types
-Identify and create calculated values
-Validate data; create and configure data validation rules by using business logic
-Manipulate application data, set default property values, configure data transforms
-Access sourced data in a case; refresh strategies; populate user interface controls
-Save data to a system of record
-Simulate and add external data sources
-Capture and present data: fields and views
-View data in memory: clipboard tool, pyWorkPage
-Configure field values
-Create and set application settings
+ * Configure data types, create data objects, data relationships, and field types
+ * Identify and create calculated values
+ * Validate data; create and configure data validation rules by using business logic
+ * Manipulate application data, set default property values, configure data transforms
+ * Access sourced data in a case; refresh strategies; populate user interface controls
+ * Save data to a system of record
+ * Simulate and add external data sources
+ * Capture and present data: fields and views
+ * View data in memory: clipboard tool, pyWorkPage
+ * Configure field values
+ * Create and set application settings
 * Security (5%)
-Manage user and role assignments
-Configure security policies
+ * Manage user and role assignments
+ * Configure security policies
 * DevOps (5%)
-Record a unit test
-Create and execute scenario-based test cases
-Identify best practices for configuring unit tests
+ * Record a unit test
+ * Create and execute scenario-based test cases
+ * Identify best practices for configuring unit tests
 * User Experience (12%)
-Customize user interface elements: dashboards, portal content
-Configure action sets
-Customize form appearance, visibility settings, controls
-Add and remove fields
-Group fields in views
-Display list data in views; configure repeating dynamic layouts
-Localize application content
-Enable accessibility features in an application
+ * Customize user interface elements: dashboards, portal content
+ * Configure action sets
+ * Customize form appearance, visibility settings, controls
+ * Add and remove fields
+ * Group fields in views
+ * Display list data in views; configure repeating dynamic layouts
+ * Localize application content
+ * Enable accessibility features in an application
 * Application Development (12%)
-Manage application development: user stories, feedback, bugs
-Use the Estimator tool to scope a Pega Platform project
-Create and maintain rules, rulesets, classes, inheritance
-Debug application errors
+ * Manage application development: user stories, feedback, bugs
+ * Use the Estimator tool to scope a Pega Platform project
+ * Create and maintain rules, rulesets, classes, inheritance
+ * Debug application errors
 * Reporting (5%)
 Create business reports
 Identify types of reports
