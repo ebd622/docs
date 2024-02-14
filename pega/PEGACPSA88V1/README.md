@@ -4,20 +4,20 @@
 
 # Exam topics
 * Case Management (33%)
-Design a case lifecycle, stages, set case statuses, add instructions to tasks
-Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
-Route assignments to users and work queues
-Configure approval processes: cascading approvals, reporting structure, authority matrix
-Configure and send email correspondence
-Identify duplicate cases
-Identify and add optional actions
-Automate workflow decisions using conditions
-Pause and resume case processing; wait steps
-Skip a stage or process
-Configure child cases
-Understand when to use automation shapes
-Automate decisions using decision tables and decision trees
-Create and manage teams of users
+  * Design a case lifecycle, stages, set case statuses, add instructions to tasks
+  * Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
+  * Route assignments to users and work queues
+  * Configure approval processes: cascading approvals, reporting structure, authority matrix
+  * Configure and send email correspondence
+  * Identify duplicate cases
+  * Identify and add optional actions
+  * Automate workflow decisions using conditions
+  * Pause and resume case processing; wait steps
+  * Skip a stage or process
+  * Configure child cases
+  * Understand when to use automation shapes
+  * Automate decisions using decision tables and decision trees
+  * Create and manage teams of users
 * Data and Integration (23%)
 Configure data types, create data objects, data relationships, and field types
 Identify and create calculated values
