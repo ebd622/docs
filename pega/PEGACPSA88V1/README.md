@@ -26,7 +26,7 @@
   * Validate data; create and configure data validation rules by using business logic
   * Manipulate application data, set default property values, configure data transforms
   * Access sourced data in a case; refresh strategies; populate user interface controls
-  * Save data to a system of record
+  * Save data to a [system of record](https://academy.pega.com/topic/data-objects/v2/in/36626/37366/37596)
   * Simulate and add external data sources
   * Capture and present data: fields and views
   * View data in memory: clipboard tool, pyWorkPage
