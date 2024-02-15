@@ -4,10 +4,6 @@
 
 # Exam topics
 
-
-|---|---|
-| Design a case lifecycle, stages, set case statuses, add instructions to tasks  |   |
-
 * Case Management (33%)
   * Design a case lifecycle, stages, set case statuses, add instructions to tasks
   * Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
