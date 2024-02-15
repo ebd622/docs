@@ -21,7 +21,7 @@
   * Automate decisions using decision tables and decision trees
   * Create and manage teams of users
 * Data and Integration (23%)
-  * Configure data types, create data objects, data relationships, and field types
+  * Configure data types, create data objects, [data relationships](https://academy.pega.com/topic/data-objects/v2/in/36626/37366/37596), and field types
   * Identify and create calculated values
   * Validate data; create and configure data validation rules by using business logic
   * Manipulate application data, set default property values, configure data transforms
