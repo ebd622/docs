@@ -4,7 +4,7 @@
 
 # Exam topics
 
-|   |   |   |   |   |
+| Case Management|
 |---|---|---|---|---|
 | Design a case lifecycle, stages, set case statuses, add instructions to tasks  |   |   |   |   |
 |   |   |   |   |   |
