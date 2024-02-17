@@ -5,7 +5,7 @@
 # Exam topics
 
 * Case Management (33%)
-  * Design a [case lifecycle](https://academy.pega.com/module/defining-customer-microjourney/v5/in/36626/37366), stages, [set case statuses](https://academy.pega.com/topic/case-status/v3/in/36626/37366/37501), add instructions to tasks
+  * Design a [case lifecycle](https://academy.pega.com/module/defining-customer-microjourney/v5/in/36626/37366), [stages](https://academy.pega.com/topic/case-life-cycle/v4/in/36626/37366/37466), [set case statuses](https://academy.pega.com/topic/case-status/v3/in/36626/37366/37501), add instructions to tasks
   * Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
   * [Route assignments to users and work queues](https://academy.pega.com/module/routing-assignments-users/v5/in/36626/37366)
     * [Chalenge](https://academy.pega.com/challenge/routing-work-users/v5/in/37366)
