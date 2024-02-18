@@ -9,7 +9,7 @@
   * Add a service level agreement; configure urgency, goals, deadlines, passed deadlines
   * [Route assignments to users and work queues](https://academy.pega.com/module/routing-assignments-users/v5/in/36626/37366)
     * Note: work group is more "high level" then work queue
-  * Configure approval processes: cascading approvals, reporting structure, authority matrix
+  * Configure [approval processes](https://academy.pega.com/module/designing-approval-process/v5/in/36626/37366): cascading approvals, reporting structure, authority matrix
   * [Configure and send email correspondence](https://academy.pega.com/module/sending-emails-during-case-processing/v5/in/36626)
   * Identify duplicate cases
   * Identify and add optional actions
