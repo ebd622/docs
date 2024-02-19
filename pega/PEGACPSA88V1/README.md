@@ -12,7 +12,7 @@
   * Configure [approval processes](https://academy.pega.com/module/designing-approval-process/v5/in/36626/37366): cascading approvals, reporting structure, authority matrix
   * [Configure and send email correspondence](https://academy.pega.com/module/sending-emails-during-case-processing/v5/in/36626)
   * Identify duplicate cases
-  * Identify and add optional actions
+  * [Identify and add optional actions](https://academy.pega.com/module/adding-optional-actions-workflow/v6/in/36626/36956)
   * Automate workflow decisions using conditions
   * Pause and resume case processing; wait steps
   * Skip a stage or process
