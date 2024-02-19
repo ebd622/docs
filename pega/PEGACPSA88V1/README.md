@@ -55,8 +55,8 @@
   * Create and maintain rules, rulesets, classes, inheritance
   * Debug application errors
 * Reporting (5%)
-Create business reports
-Identify types of reports
+  * Create business reports
+  * Identify types of reports
 Use columns and filters
 Describe the benefits of using Insights
 * Mobility (5%)
