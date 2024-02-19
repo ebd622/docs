@@ -13,6 +13,7 @@
   * [Configure and send email correspondence](https://academy.pega.com/module/sending-emails-during-case-processing/v5/in/36626)
   * Identify duplicate cases
   * [Identify and add optional actions](https://academy.pega.com/module/adding-optional-actions-workflow/v6/in/36626/36956)
+    *  A series of steps that are not the usual path can be handled with an optional process.
   * Automate workflow decisions using conditions
   * Pause and resume case processing; wait steps
   * Skip a stage or process
