@@ -17,7 +17,7 @@
   * [Automate workflow decisions using conditions](https://academy.pega.com/module/automating-workflow-decisions/v4/in/36626/36956)
   * Pause and resume case processing; wait steps
   * Skip a stage or process
-  * Configure child cases
+  * [Configure child cases](https://academy.pega.com/module/creating-child-case/v5/in/36626/36956)
   * Understand when to use automation shapes
   * Automate decisions using decision tables and decision trees
   * Create and manage teams of users
