@@ -18,7 +18,7 @@
   * Pause and resume case processing; wait steps
   * Skip a stage or process
   * [Configure child cases](https://academy.pega.com/module/creating-child-case/v5/in/36626/36956)
-  * Understand when to use automation shapes
+  * [Understand when to use automation shapes](https://academy.pega.com/module/automation-shapes-case-life-cycle/v3/in/36626/36956)
   * Automate decisions using decision tables and decision trees
   * Create and manage teams of users
 * Data and Integration (23%)
