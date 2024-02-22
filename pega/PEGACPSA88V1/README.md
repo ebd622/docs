@@ -11,7 +11,7 @@
     * Note: work group is more "high level" then work queue
   * Configure [approval processes](https://academy.pega.com/module/designing-approval-process/v5/in/36626/37366): cascading approvals, reporting structure, authority matrix
   * [Configure and send email correspondence](https://academy.pega.com/module/sending-emails-during-case-processing/v5/in/36626)
-  * Identify duplicate cases
+  * [Identify duplicate cases](https://academy.pega.com/module/identifying-duplicate-cases/v4/in/36626/36956)
   * [Identify and add optional actions](https://academy.pega.com/module/adding-optional-actions-workflow/v6/in/36626/36956)
     *  A series of steps that are not the usual path can be handled with an optional process.
   * [Automate workflow decisions using conditions](https://academy.pega.com/module/automating-workflow-decisions/v4/in/36626/36956)
