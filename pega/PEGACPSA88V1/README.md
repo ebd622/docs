@@ -33,6 +33,11 @@
   * Simulate and add external data sources
   * Capture and present data: fields and views
   * [View data in memory: clipboard tool, pyWorkPage](https://academy.pega.com/module/viewing-data-memory/v5/in/36626/44381)
+    * Clipboard page organization
+      * User Pages
+      * Data Pages
+      * Linked Property Pages (read only pages)
+      * System Pages
   * Configure field values
   * Create and set application settings
 * Security (5%)
