@@ -32,7 +32,7 @@
   * Save data to a [system of record](https://academy.pega.com/topic/data-objects/v2/in/36626/37366/37596)
   * Simulate and add external data sources
   * Capture and present data: fields and views
-  * View data in memory: clipboard tool, pyWorkPage
+  * [View data in memory: clipboard tool, pyWorkPage](https://academy.pega.com/module/viewing-data-memory/v5/in/36626/44381)
   * Configure field values
   * Create and set application settings
 * Security (5%)
