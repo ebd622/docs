@@ -28,7 +28,7 @@
   * [Validate data](https://academy.pega.com/module/validating-data-dev-studio/v5/in/36626/44381); create and configure data validation rules by using business logic
     * Complex validation scenarios, like validating the length of a data element and so on, must be configured in Dev Studio.
     * Functions present a customized set of fields for configuring validation behavior
-    * Edit validate rules are typically applied to properties and consist of Java code to validate (Regexp of anything else)
+    * **Edit validate rules** are typically applied to properties and consist of Java code to validate (Regexp of anything else)
  
   * [Manipulate application data, set default property values, configure data transforms](https://academy.pega.com/module/application-data-manipulation/v5/in/36626/44381)
     * Best practice is to use the *Data initialization* page when setting a default for a field to a static value
