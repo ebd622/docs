@@ -25,7 +25,7 @@
 * Data and Integration (23%)
   * Configure data types, create data objects, [data relationships, and field types](https://academy.pega.com/topic/data-relationships/v3/in/36626/37366/37596)
   * [Identify and create calculated values](https://academy.pega.com/topic/calculated-values/v4/in/36626/37366/37571)
-  * Validate data; create and configure data validation rules by using business logic
+  * [Validate data](https://academy.pega.com/module/validating-data-dev-studio/v5/in/36626/44381); create and configure data validation rules by using business logic
   * [Manipulate application data, set default property values, configure data transforms](https://academy.pega.com/module/application-data-manipulation/v5/in/36626/44381)
     * Best practice is to use the *Data initialization* page when setting a default for a field to a static value
   * Access sourced data in a case; refresh strategies; populate user interface controls
