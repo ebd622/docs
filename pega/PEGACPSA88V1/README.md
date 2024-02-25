@@ -33,7 +33,7 @@
   * [Manipulate application data, set default property values, configure data transforms](https://academy.pega.com/module/application-data-manipulation/v5/in/36626/44381)
     * Best practice is to use the *Data initialization* page when setting a default for a [field](https://academy.pega.com/module/field-values/v6/in/36626/44381) to a static value
   * Access sourced data in a case; refresh strategies; populate user interface controls
-  * Save data to a [system of record](https://academy.pega.com/topic/data-objects/v2/in/36626/37366/37596)
+  * Save data to a [system of record](https://academy.pega.com/topic/data-objects/v2/in/36626/37366/37596) (SOR)
   * Simulate and add external data sources
   * Capture and present data: fields and views
   * [View data in memory: clipboard tool, pyWorkPage](https://academy.pega.com/module/viewing-data-memory/v5/in/36626/44381)
