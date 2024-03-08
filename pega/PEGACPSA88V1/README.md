@@ -72,5 +72,5 @@
 Use columns and filters
 Describe the benefits of using Insights
 * Mobility (5%)
-* Configure mobile app channels
-Use of Pega Mobile Preview
+  * Configure mobile app channels
+  * Use of Pega Mobile Preview
