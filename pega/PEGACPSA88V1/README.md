@@ -9,7 +9,7 @@
   * [Add a service level agreement; configure urgency, goals, deadlines, passed deadlines](https://academy.pega.com/module/completing-work-time/v5/in/36626/37366)
   * [Route assignments to users and work queues](https://academy.pega.com/module/routing-assignments-users/v5/in/36626/37366)
     * Note: work group is more "high level" then work queue
-  * Configure [approval processes](https://academy.pega.com/module/designing-approval-process/v5/in/36626/37366): cascading approvals, reporting structure, authority matrix
+  * Configure [approval processes](https://academy.pega.com/module/designing-approval-process/v5/in/36626/37366): [cascading approvals](https://academy.pega.com/module/cascading-approvals/v2/in/36626), reporting structure, authority matrix
   * [Configure and send email correspondence](https://academy.pega.com/module/sending-emails-during-case-processing/v5/in/36626)
   * [Identify duplicate cases](https://academy.pega.com/module/identifying-duplicate-cases/v4/in/36626/36956)
     * For cases that meet the basic conditions, the system continues to evaluate the weighted conditions for duplicate cases. When the total weighted value for a case meets or exceeds the threshold value, the case is flagged as a potential duplicate
