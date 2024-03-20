@@ -21,7 +21,7 @@
   * [Configure child cases](https://academy.pega.com/module/creating-child-case/v5/in/36626/36956)
   * [Understand when to use automation shapes](https://academy.pega.com/module/automation-shapes-case-life-cycle/v3/in/36626/36956)
   * Automate decisions using [decision tables and decision trees](https://academy.pega.com/module/decision-tables-and-trees/v3/in/36626)
-  * Create and manage teams of users [https://academy.pega.com/module/creating-and-managing-teams-users/v5/in/36626]
+  * [Create and manage teams of users](https://academy.pega.com/module/creating-and-managing-teams-users/v5/in/36626)
 * Data and Integration (23%)
   * Configure data types, create data objects, [data relationships, and field types](https://academy.pega.com/topic/data-relationships/v3/in/36626/37366/37596)
   * [Identify and create calculated values](https://academy.pega.com/topic/calculated-values/v4/in/36626/37366/37571)
