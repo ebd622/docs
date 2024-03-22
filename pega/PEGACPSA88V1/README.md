@@ -58,7 +58,7 @@
   * Customize form appearance, visibility settings, controls
   * Add and remove fields
   * Group fields in views
-  * Display list data in views; configure repeating dynamic layouts
+  * Display list data in views; configure repeating [dynamic layouts](https://academy.pega.com/topic/dynamic-layouts/v2/in/36626/37981)
   * Localize application content
   * Enable accessibility features in an application
 * Application Development (12%)
