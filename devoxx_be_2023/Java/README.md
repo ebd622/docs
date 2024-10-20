@@ -30,7 +30,8 @@
   * Continuation is a datastructure that halps to restore the context of a call between calls to a coroutine (1:44:04)
   * Continuation should be a datastructure that you bebefit from but should not have a direct access to it
   * VTs are supper lightweight. They are manages by JVM, not by OS (1:52:30)
-  * There is a carrier thread. A VT is mounted and unmounted to a carrier thread (1:53:35)
+  * A carrier thread is a traditional OS thread that is used by the JVM to execute VTs.
+  * A VT is mounted and unmounted to a carrier thread (1:53:35)
   * Mounting and unmouting takes some time, it is not free (because it is not possible to get something with absolutely no overhead!) (1:55:00)
   * Quick example (2:07:45)
   * Don't confuse ExecutorService with pooling (2:14:30)
