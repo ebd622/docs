@@ -42,5 +42,3 @@
 ### Project Loom: Modern Scalable Concurrency for the Java Platform
 * https://devoxx.be/talk/?id=12201
 * https://www.youtube.com/watch?v=XF4XZlPZc_c&t=1s
-
-TODO
