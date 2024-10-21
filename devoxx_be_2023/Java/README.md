@@ -1,6 +1,5 @@
 # Java
 ### Asynchronous Programming in Java: Options to Choose from
-* https://devoxx.be/talk/?id=64003
 * https://youtu.be/1zSF1259s6w?si=xcstf3NZWhn0SNfK
 
 #### Threading
