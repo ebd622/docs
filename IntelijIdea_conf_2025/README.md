@@ -5,7 +5,7 @@
 
 #### Day2: Sudo, Make Me a Sandwich!"
 [10:17](https://www.youtube.com/live/qg6tj8Tf36E?t=617s) – "Sudo, Make Me a Sandwich!" – Live Coding With Agentic AI in IntelliJ IDEA by Anton Arhipov
-* Vibe Coding https://www.youtube.com/live/qg6tj8Tf36E?si=c8wXuco0OgNRymeK
+* Vibe Coding [15:08]
 
 #### Day2: OOP vs. DOP: Which One to Choose?
 [7:09:48](https://www.youtube.com/live/qg6tj8Tf36E?t=25788s) – OOP vs. DOP: Which One to Choose? by Venkat Subramaniam
