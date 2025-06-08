@@ -8,7 +8,7 @@
 * Vibe Coding [15:08]
 
 #### Day2: OOP vs. DOP: Which One to Choose?
-[7:09:48](https://www.youtube.com/live/qg6tj8Tf36E?t=25788s) – OOP vs. DOP: Which One to Choose? by Venkat Subramaniam
+[7:09:48](https://www.youtube.com/live/qg6tj8Tf36E?t=25788s) – OOP vs. DOP: Which One to Choose? by Venkat Subramaniam </br>
 DOP - Data oriented programin
 * Four pillars of OOP (8:10:49)
 
