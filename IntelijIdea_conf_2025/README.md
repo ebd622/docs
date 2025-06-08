@@ -10,11 +10,12 @@
 #### Day2: OOP vs. DOP: Which One to Choose?
 [7:09:48](https://www.youtube.com/live/qg6tj8Tf36E?t=25788s) – OOP vs. DOP: Which One to Choose? by Venkat Subramaniam </br>
 DOP - Data oriented programing
-* Four pillars of OOP (8:10:49)
+* Four pillars of OOP (7:11:00)
   * Abstration (a way to deal with complexity)
   * Incapsulation (a way to separate what we do from how we do it)
   * Inheritance (a weakest pillar of OOP? Languages like Python, Javascript, Ruby don't rely on Inheritance)
   * Polymorphism (seems to be the fost important pillar)
+* Polymorphism is essence of OOP (7:12:00)
 
 
 
