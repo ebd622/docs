@@ -12,7 +12,7 @@
 DOP - Data oriented programing
 * Four pillars of OOP (8:10:49)
   * Abstration (a way to deal with complexity)
-  * 
+  * Incapsulation (a way to separate what we do from how we do it)
 
 
 
