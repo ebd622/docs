@@ -9,8 +9,10 @@
 
 #### Day2: OOP vs. DOP: Which One to Choose?
 [7:09:48](https://www.youtube.com/live/qg6tj8Tf36E?t=25788s) – OOP vs. DOP: Which One to Choose? by Venkat Subramaniam </br>
-DOP - Data oriented programin
+DOP - Data oriented programing
 * Four pillars of OOP (8:10:49)
+  * Abstration (a way to deal with complexity)
+  * 
 
 
 
