@@ -13,6 +13,8 @@ DOP - Data oriented programing
 * Four pillars of OOP (8:10:49)
   * Abstration (a way to deal with complexity)
   * Incapsulation (a way to separate what we do from how we do it)
+  * Inheritance (a weakast piral of OOP? Languages like Python, Javascript, Ruby don't rely on Inheritance)
+  * Polymorphism
 
 
 
