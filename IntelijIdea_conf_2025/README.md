@@ -20,6 +20,7 @@ DOP - Data oriented programing
   * We often find that when a language is more power, **we tend to use less patterns**
   * Why? Because **patterns become natural features of languages**
   * Some time patterns can bring *accidental complexity* and may violate [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,redundancy%20in%20the%20first%20place.) principal (like in the discussed example)
+  * Overal this is very highly complex and clansu code
 
 see: https://github.com/ebd622/java-samples/tree/main/dop-app
 
