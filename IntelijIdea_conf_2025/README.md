@@ -16,6 +16,8 @@ DOP - Data oriented programing
   * Inheritance (a weakest pillar of OOP? Languages like Python, Javascript, Ruby don't rely on Inheritance)
   * Polymorphism (seems to be the fost important pillar)
 * Polymorphism is essence of OOP (7:11:00)
+* Factory and visitor patterns? (7:26:00)
+* 
 
 see: https://github.com/ebd622/java-samples/tree/main/dop-app
 
