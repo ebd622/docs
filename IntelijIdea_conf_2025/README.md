@@ -18,6 +18,7 @@ DOP - Data oriented programing
 * Polymorphism is essence of OOP (7:11:00)
 * Factory and visitor patterns? (7:26:00)
   * We often find that when a language is more power, **we tend to use less patterns**
+  * Why? Because **patterns become natural features of languages**
 
 see: https://github.com/ebd622/java-samples/tree/main/dop-app
 
