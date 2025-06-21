@@ -22,7 +22,7 @@ DOP - Data oriented programing
   * Some time patterns can bring *accidental complexity* and may violate [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don't%20repeat%20yourself%22,redundancy%20in%20the%20first%20place.) principal (like in the discussed example)
   * Overal this becoms very highly complex and clamsu code
   * Design and atchitecture is full of trade offs
- * Violation open/close proncipal (7:41:40)
+ * Violation [open-closed](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle) proncipal (7:41:40)
 
 see: https://github.com/ebd622/java-samples/tree/main/dop-app
 
