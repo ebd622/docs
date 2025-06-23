@@ -11,7 +11,8 @@
   * Minimal AI-assisted completion: I know what I am doing let me do it myself
   * More verbose completions are acceptable: I know what I want, I don't know how exactly
   * In-editor code generation with minimalistic prompts: I know what I want, I want to move faster, generate code for me
-  * Chat-assisted 
+  * Chat-assisted programming: I know what, I vaguely know how, provide me the guidelines
+  * 
 * Vibe Coding [15:08]
 
 #### Day2: OOP vs. DOP: Which One to Choose?
