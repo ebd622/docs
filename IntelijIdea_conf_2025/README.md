@@ -1,6 +1,6 @@
 # IntelliJ IDEA Conf 2025
 
-[IntelliJ IDEA Conf 2025](https://www.youtube.com/playlist?list=PLPZy-hmwOdEV1aAV4qqXkqde7OpjsVLfb)
+[IntelliJ IDEA Conf 2025](https://www.youtube.com/playlist?list=PLPZy-hmwOdEV1aAV4qqXkqde7OpjsVLfb) </br>
 Sessions: https://nljug.org/foojay/youre-invited-to-intellij-idea-conf-2025/
 
 * Day1: https://www.youtube.com/live/Bd8EA8XKyLQ?si=Md9FMqXxEFL_Hfsf
