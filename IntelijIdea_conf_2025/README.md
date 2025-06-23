@@ -9,6 +9,7 @@
 [10:17](https://www.youtube.com/live/qg6tj8Tf36E?t=617s) – "Sudo, Make Me a Sandwich!" – Live Coding With Agentic AI in IntelliJ IDEA by Anton Arhipov
 * Levels of AI assistance (from Min to Max)
   * Minimal AI-assisted completion: I know what I am doing let me do it myself
+  * More verbose completions are acceptable: I know what I want, I don't know how exactly
 * Vibe Coding [15:08]
 
 #### Day2: OOP vs. DOP: Which One to Choose?
