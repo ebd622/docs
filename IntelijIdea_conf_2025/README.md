@@ -9,7 +9,7 @@
 #### Day2: Sudo, Make Me a Sandwich!"
 [10:17](https://www.youtube.com/live/qg6tj8Tf36E?t=617s) – "Sudo, Make Me a Sandwich!" – Live Coding With Agentic AI in IntelliJ IDEA by Anton Arhipov
 * Levels of AI assistance (from Min to Max)
-  * Minimal AI-assisted completion: I know what I am doing let me do it myself
+  * **Minimal AI-assisted completion**: I know what I am doing let me do it myself
   * More verbose completions are acceptable: I know what I want, I don't know how exactly
   * In-editor code generation with minimalistic prompts: I know what I want, I want to move faster, generate code for me
   * Chat-assisted programming: I know what, I vaguely know how, provide me the guidelines
