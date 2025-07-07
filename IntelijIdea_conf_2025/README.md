@@ -14,7 +14,7 @@
   * **In-editor code generation with minimalistic prompts**: I know what I want, I want to move faster, generate code for me
   * **Chat-assisted programming**: I know what, I vaguely know how, provide me the guidelines
   * **Agent-assisted programming "Directive coding"**: I know what I want, I need help building it. I will quickly check the code and direct the agent with clarifying instructions
-  * Agent-assisted application generation a.k.a. "Vibe coding": I have no idea how to but I want to build it - "sudo, make me a sandwich"
+  * **Agent-assisted application generation a.k.a. "Vibe coding"**: I have no idea how to but I want to build it - "sudo, make me a sandwich"
 * Vibe Coding [15:08]
 
 #### Day2: OOP vs. DOP: Which One to Choose?
