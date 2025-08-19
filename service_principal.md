@@ -5,5 +5,7 @@ A Serice Principal is an indentity foran application in Azure AD. It allows the 
 * User Identity => Azure AD User Account
 
 # Resources
-TODO
+* https://www.youtube.com/watch?v=TwpShS6KUEY
+* https://youtu.be/WVNvoiA_ktw?si=zm7SwnudC_A9nKh8
+
 
