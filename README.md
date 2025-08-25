@@ -5,4 +5,5 @@ TOC:
 * [TLS Handshake](tls_handshake.md)
 * [Certificate Chain](cert_chain.md)
 * [Keystore vs Trustsrore](keystore_truststore.md)
+* Managed identities for Azure resources
 * [Service Principal](https://github.com/ebd622/docs/blob/main/service_principal.md)
