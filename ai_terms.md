@@ -1,4 +1,5 @@
 # AI Terms
+1. Agentic AI
 TODO
 
 ## Resources
