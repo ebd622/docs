@@ -1,6 +1,6 @@
 # AI Terms
 1. Agentic AI (0:35)
-2. Lage Reasoning model
+2. Lage Reasoning model (1:55)
 
 
 TODO
