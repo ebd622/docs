@@ -2,7 +2,7 @@
 1. Agentic AI (0:35)
 2. Lage Reasoning model (1:55)
 3. Vector DB (2:55)
-4. RAG (4:31)
+4. RAG [Retrieval augmented generation] (4:31)
 
 
 TODO
