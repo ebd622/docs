@@ -7,7 +7,8 @@
 #### 6. MOE [Mixture of experts] (6:47)
 * MOI devides LLM into series of experts
 * "Series of experts" is a specialised neural subnetworks
-* MOI uses a routing mechanism to activate an "expert" which it needs
+* MOI uses a routing mechanism to activate experts which it needs
+* Then it combines responses from different experts into a single representation
 ### 8. ASI [Artificial super intelligence] (8:24)
 
 
