@@ -6,7 +6,8 @@
 5. MCP (Model Context Protocol) (5:40)
 #### 6. MOE [Mixture of experts] (6:47)
 * MOI devides LLM into series of experts
-* "Series of experts" is a specialised neural subnetworks 
+* "Series of experts" is a specialised neural subnetworks
+* MOI uses a routing mechanism to activate an "expert" which it needs
 ### 8. ASI [Artificial super intelligence] (8:24)
 
 
