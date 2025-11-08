@@ -2,8 +2,8 @@
 #### 1. Agentic AI (0:35)
 #### 2. Lage Reasoning model (1:55)
 #### 3. Vector DB (2:55)
-4. RAG [Retrieval augmented generation] (4:31)
-5. MCP (Model Context Protocol) (5:40)
+#### 4. RAG [Retrieval augmented generation] (4:31)
+#### 5. MCP (Model Context Protocol) (5:40)
 #### 6. MOE [Mixture of experts] (6:47)
 * MOI devides LLM into series of experts
 * "Series of experts" is a specialised neural subnetworks
