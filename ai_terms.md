@@ -9,7 +9,7 @@
 * "Series of experts" is a specialised neural subnetworks
 * MOI uses a routing mechanism to activate experts which it needs
 * Then it combines responses from different experts into a single representation
-### 8. ASI [Artificial super intelligence] (8:24)
+### 7. ASI [Artificial super intelligence] (8:24)
 
 
 TODO
