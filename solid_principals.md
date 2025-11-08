@@ -3,8 +3,8 @@ The SOLID principles (generl in OOP) are a set of five design principles intende
 ## S — Single Responsibility Principle (SRP)
 A class should have only one reason to change, meaning it should have only one job or responsibility.
 
-✅ Good: A class that handles only user authentication.
-❌ Bad: A class that handles authentication, logging, and database access.
+* ✅ Good: A class that handles only user authentication.
+* ❌ Bad: A class that handles authentication, logging, and database access.
 
 This makes code easier to test and maintain.
 
