@@ -15,3 +15,27 @@ Software entities (classes, modules, functions) should be open for extension but
 * ❌ Bad: You have to modify existing code to add new behavior.
 
 This encourages the use of inheritance and polymorphism.
+
+## L — Liskov Substitution Principle (LSP)
+Objects of a superclass should be replaceable with objects of its subclasses without breaking the application.
+
+* ✅ Good: A subclass correctly overrides methods and maintains expected behavior.
+* ❌ Bad: A subclass changes behavior in a way that violates the expectations of the superclass.
+
+This ensures correct inheritance.
+
+## I — Interface Segregation Principle (ISP)
+Clients should not be forced to depend on interfaces they do not use.
+
+* ✅ Good: Many small, specific interfaces.
+* ❌ Bad: One large interface with many unrelated methods.
+
+This promotes clean and focused interfaces.
+
+## D — Dependency Inversion Principle (DIP)
+High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+* ✅ Good: Use interfaces or abstract classes to decouple components.
+* ❌ Bad: High-level logic directly depends on low-level implementation details.
+
+This principle is key to dependency injection and inversion of control.
