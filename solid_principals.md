@@ -3,13 +3,14 @@ The SOLID principles (generl in OOP) are a set of five design principles intende
 ## S — Single Responsibility Principle (SRP)
 A class should have only one reason to change, meaning it should have only one job or responsibility.
 
+Example:
 * ✅ Good: A class that handles only user authentication.
 * ❌ Bad: A class that handles authentication, logging, and database access.
 
 This makes code easier to test and maintain.
 
 ## O — Open/Closed Principle (OCP)
-Software entities (classes, modules, functions) should be open for extension but closed for modification.
+Software entities (classes, modules, functions) should be open for extension but closed for modification. You can extend or customize behaviour (via inheritance, configuration or overriding beans)
 
 * ✅ Good: You can add new behavior by extending a class or implementing an interface.
 * ❌ Bad: You have to modify existing code to add new behavior.
