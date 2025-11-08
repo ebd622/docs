@@ -12,6 +12,7 @@ This makes code easier to test and maintain.
 ## O — Open/Closed Principle (OCP)
 Software entities (classes, modules, functions) should be open for extension but closed for modification. You can extend or customize behaviour (via inheritance, configuration or overriding beans)
 
+Example:
 * ✅ Good: You can add new behavior by extending a class or implementing an interface.
 * ❌ Bad: You have to modify existing code to add new behavior.
 
@@ -20,6 +21,7 @@ This encourages the use of inheritance and polymorphism.
 ## L — Liskov Substitution Principle (LSP)
 Objects of a superclass should be replaceable with objects of its subclasses without breaking the application.
 
+Example:
 * ✅ Good: A subclass correctly overrides methods and maintains expected behavior.
 * ❌ Bad: A subclass changes behavior in a way that violates the expectations of the superclass.
 
@@ -28,6 +30,7 @@ This ensures correct inheritance.
 ## I — Interface Segregation Principle (ISP)
 Clients should not be forced to depend on interfaces they do not use.
 
+Example:
 * ✅ Good: Many small, specific interfaces.
 * ❌ Bad: One large interface with many unrelated methods.
 
@@ -36,7 +39,10 @@ This promotes clean and focused interfaces.
 ## D — Dependency Inversion Principle (DIP)
 High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
+Example:
 * ✅ Good: Use interfaces or abstract classes to decouple components.
 * ❌ Bad: High-level logic directly depends on low-level implementation details.
+
+  
 
 This principle is key to dependency injection and inversion of control.
