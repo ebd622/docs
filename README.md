@@ -7,4 +7,4 @@ TOC:
 * [Keystore vs Trustsrore](keystore_truststore.md)
 * [Managed identities for Azure resources](https://github.com/ebd622/docs/blob/main/msi.md)
 * [Service Principal](https://github.com/ebd622/docs/blob/main/service_principal.md)
-* [SOLID principals](https://github.com/ebd622/docs/blob/main/service_principal.md)
+* [SOLID principals](https://github.com/ebd622/docs/blob/main/solid_principal.md)
