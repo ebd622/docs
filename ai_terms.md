@@ -10,6 +10,7 @@
 * MOI uses a routing mechanism to activate experts which it needs
 * Then it combines responses from different experts into a single representation
 ### 7. ASI [Artificial super intelligence] (8:24)
+* It is a hypothetical level of artificial intelligence (It doesn't exist now and we don't know if it ever will)
 
 
 TODO
