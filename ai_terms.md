@@ -14,6 +14,7 @@
 * Key Characteristics:
   * Self-improving: It can recursively enhance its own capabilities.
   * Creative and strategic: Able to innovate and solve problems humans can’t even conceptualize
+  * Potentially unpredictable: Because its reasoning might be beyond human comprehension
 
 
 TODO
