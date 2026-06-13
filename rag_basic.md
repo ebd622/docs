@@ -1,20 +1,5 @@
 # RAG Basic
-#### 1. Agentic AI (0:35)
-#### 2. Lage Reasoning model (1:55)
-#### 3. Vector DB (2:55)
-#### 4. RAG [Retrieval augmented generation] (4:31)
-#### 5. MCP (Model Context Protocol) (5:40)
-#### 6. MOE [Mixture of experts] (6:47)
-* MOI devides LLM into series of experts
-* "Series of experts" is a specialised neural subnetworks
-* MOI uses a routing mechanism to activate experts which it needs
-* Then it combines responses from different experts into a single representation
-### 7. ASI [Artificial super intelligence] (8:24)
-* It is a hypothetical level of artificial intelligence (It doesn't exist now and we don't know if it ever will)
-* Key Characteristics:
-  * Self-improving: It can recursively enhance its own capabilities.
-  * Creative and strategic: Able to innovate and solve problems humans can’t even conceptualize
-  * Potentially unpredictable: Because its reasoning might be beyond human comprehension
+TODO
 
 ## Resources
 * https://youtu.be/swvzKSOEluc?si=bbofQfpj-8BEISiK
