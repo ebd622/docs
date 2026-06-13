@@ -1,4 +1,4 @@
-# AI Terms
+# RAG Basic
 #### 1. Agentic AI (0:35)
 #### 2. Lage Reasoning model (1:55)
 #### 3. Vector DB (2:55)
