@@ -9,3 +9,9 @@ Notes
 * Use premium models (for example, Opus) for complex workflows, advanced problem-solving, or tasks where quality is more important than cost.
 * Set session credit limits to control consumption and prevent unexpected usage costs during workshops or shared environments.
 * GitHub Copilot tip: Use ! to quickly switch to the integrated terminal and execute commands without leaving the Copilot workflow.
+
+## GitHub Copilot for Data & Infra
+TODO
+
+## Squad with Spec-driven development
+TODO
