@@ -11,7 +11,12 @@ Notes
 * GitHub Copilot tip: Use ! to quickly switch to the integrated terminal and execute commands without leaving the Copilot workflow.
 
 ## GitHub Copilot for Data & Infra
-TODO
+* Repo:
+* Recording: 
 
 ## Squad with Spec-driven development
-TODO
+* Repo:
+* Recording: 
+
+Notes
+* TODO
