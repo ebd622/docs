@@ -27,7 +27,7 @@ Notes
   * A team of specialized *agents* that implements the work from the spec 
 * From Vibe Codings to Spec-driven Development
 * The Spec is not a wish list, it is a contract to behave. A good spec tells:
- *  What nust happen
- *  What edge cases to handle
- *  What is out of scope
- *  What acceptance criteria
+  *  What nust happen
+  *  What edge cases to handle
+  *  What is out of scope
+  *  What acceptance criteria
