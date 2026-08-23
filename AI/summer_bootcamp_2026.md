@@ -31,3 +31,8 @@ Notes
   *  What edge cases to handle
   *  What is out of scope
   *  What acceptance criteria
+* The four phases of SDD
+  * Specify: the "what" and "why"
+  * Plan: the "how"
+  * Tasks: the "in what order"
+  * Implement: the "go"
