@@ -43,4 +43,7 @@ Notes
   4. Tasks: in what steps
      
   Phase gated: you finish one phase before the next. That order keeps you from cooding before intent is clear
+
+  ## Resources
+  * https://developer.microsoft.com/blog/spec-driven-development-spec-kit/
      
