@@ -20,7 +20,7 @@ Notes
 
 Notes
 * Spec-driven development
-  *A clear mental model for defining behaviour before you build
+  * A clear mental model for defining behaviour before you build
 * Spec Kit
   * Hands-on structure that turns intent into a sutable, ordered spec 
 * TODO
