@@ -41,5 +41,6 @@ Notes
   2. Spec: Wht and why?
   3. Plan: how?
   4. Tasks: in what steps
+     
   Phase gated: you finish one phase before the next. That order keeps you from cooding before intent is clear
      
