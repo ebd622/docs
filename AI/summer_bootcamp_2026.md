@@ -22,5 +22,7 @@ Notes
 * Spec-driven development
   * A clear mental model for defining behaviour before you build
 * Spec Kit
-  * Hands-on structure that turns intent into a sutable, ordered spec 
+  * Hands-on structure that turns intent into a sutable, ordered spec
+* Squad
+  * A team of specialized *agents* that implements the work from the spec 
 * TODO
