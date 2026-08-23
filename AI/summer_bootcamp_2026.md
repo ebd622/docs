@@ -36,3 +36,8 @@ Notes
   * Plan: the "how"
   * Tasks: the "in what order"
   * Implement: the "go"
+* Spec Kit: Github's open-source tool for SDD. It has four important pilars:
+  1. Constitustion: what rules always hold?
+  2. Spec: Wht and why?
+  3. Plan: how?
+  4. Tasks: in what steps
