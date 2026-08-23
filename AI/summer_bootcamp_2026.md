@@ -25,4 +25,4 @@ Notes
   * Hands-on structure that turns intent into a sutable, ordered spec
 * Squad
   * A team of specialized *agents* that implements the work from the spec 
-* TODO
+* From Vibe Codings to Spec-driven Development
