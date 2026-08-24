@@ -21,7 +21,7 @@ Notes
 Notes
 * *Spec-driven development*: A clear mental model for defining behaviour before you build
 * *Spec Kit*: Hands-on structure that turns intent into a sutable, ordered spec
-* *Squad*: A team of specialized *agents* that implements the work from the spec
+* *[Squad](https://bradygaster.github.io/squad/)*: A team of specialized *agents* that implements the work from the spec
   * Leaves in your repo
   * Human-led: your set prios and have final say on everything
   * Learns over time: knowledge compounds across every section 
