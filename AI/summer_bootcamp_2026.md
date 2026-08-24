@@ -15,7 +15,7 @@ Notes
 * Recording: [GitHub Copilot for Data & Infra](https://eur03.safelinks.protection.outlook.com/ap/od-59584e83/?url=https%3A%2F%2F1drv.ms%2Fv%2Fc%2F8d3dc31d7364ae08%2FIQDlBSuw1mLaQrJxYjxoKiC5AV3FrlYjUJ2ZWRqYtx3j110%3Fe%3DKApdvo&data=05%7C02%7Cyauheni.burdo%40rabobank.nl%7C4bd0492e4bf4437350bb08deff882c36%7C6e93a6268aca4dc19191ce291b4b75a1%7C0%7C0%7C639229157486997483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=scG6mxvJIq5g1bsK4grkGu2UP3WBgd24FjXim5yn5Jw%3D&reserved=0)
 
 ## Squad with Spec-driven development
-* Repo:
+* Repo: https://github.com/ebd622/squad-sdd-workshop
 * Recording: [Squad with Spec-driven development](https://eur03.safelinks.protection.outlook.com/ap/od-59584e83/?url=https%3A%2F%2F1drv.ms%2Fv%2Fc%2F8d3dc31d7364ae08%2FIQA7ZxflYeawQp5Spm9O1HtrATxjxMMqhPU3V0b7xrTiRm8%3Fe%3DsdOf48&data=05%7C02%7Cyauheni.burdo%40rabobank.nl%7C3c319f196d984c7e215008deff93707b%7C6e93a6268aca4dc19191ce291b4b75a1%7C0%7C0%7C639229205904765288%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=rKXiTNBswBJPM6vvcddy%2F0knFzZ0dOMa4tOk6aSCP%2Fc%3D&reserved=0)
 
 Notes
