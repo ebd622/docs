@@ -44,6 +44,9 @@ Notes
      
   Phase gated: you finish one phase before the next. That order keeps you from cooding before intent is clear
 
+  ## GitHub Agentic Workflows Workshop
+  * Repos: https://github.com/hackathon-gray-deer-10/up2pk-GH-AgenticWorkflows#1-create-your-workshop-repository
+
   ## Resources
   * https://developer.microsoft.com/blog/spec-driven-development-spec-kit/
      
