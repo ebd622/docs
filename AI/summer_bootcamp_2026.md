@@ -45,7 +45,7 @@ Notes
   Phase gated: you finish one phase before the next. That order keeps you from cooding before intent is clear
 
   ## GitHub Agentic Workflows Workshop
-  * Repos: https://github.com/hackathon-gray-deer-10/up2pk-GH-AgenticWorkflows#1-create-your-workshop-repository
+  * Repos: https://github.com/ebd622/GH-AgenticWorkflows
   * Recording: [Agentic workflows](https://eur03.safelinks.protection.outlook.com/ap/od-59584e83/?url=https%3A%2F%2F1drv.ms%2Fv%2Fc%2F8d3dc31d7364ae08%2FIQDqevnDPACQTKNFHW3lD7qrAU_uwl7v4m1B3LftqZsigPE%3Fe%3DK35jdd&data=05%7C02%7Cyauheni.burdo%40rabobank.nl%7Cd99eb90affa54c4926d008df04f75c21%7C6e93a6268aca4dc19191ce291b4b75a1%7C0%7C0%7C639235132613575411%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=9b21KPN5Ks4Plgks76cwwIFH1p6nKTIV3hxIucAJvLM%3D&reserved=0)
 
   ## Resources
