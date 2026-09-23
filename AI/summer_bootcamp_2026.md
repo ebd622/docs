@@ -57,7 +57,9 @@ Notes
 
   ## Resources
   * https://developer.microsoft.com/blog/spec-driven-development-spec-kit/
-  * [Introduction to GitHub Copilot | GH-300 | Episode 1](https://www.youtube.com/watch?v=-1-ZeFMmlOM)
+  * [Episode 1: Introduction to GitHub Copilot](https://www.youtube.com/watch?v=-1-ZeFMmlOM)
+  * [Episode 2: Exploring GitHub Copilot features](https://www.youtube.com/watch?v=eTRrKcIzlJs)
   * [Episode 5: GitHub Copilot Advanced Features](https://www.youtube.com/watch?v=glm-YdEadSM)
+
   
      
