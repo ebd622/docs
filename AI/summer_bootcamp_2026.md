@@ -57,4 +57,5 @@ Notes
 
   ## Resources
   * https://developer.microsoft.com/blog/spec-driven-development-spec-kit/
+  * [Episode 5: GitHub Copilot Advanced](Features(https://www.youtube.com/watch?v=glm-YdEadSM)
      
