@@ -3,9 +3,9 @@ Modern AI agents need multiple capabilities working together such as Skills, MCP
 |Component|Purpose|Simple Analogy|
 |---------|-------|--------------|
 | Skill |Teach the agent how to perform tasks|Employee training|
-| MCP |  |  |
-| RAG |  |  |
-| Memory |  |  |
+| MCP |Connect the agent to tools and systems|USB ports/adapters|
+| RAG |Give the agent external knowledge|Looking things up in documents|
+| Memory|Remember previous interactions|Human memory|
 
 
 ## Skils
