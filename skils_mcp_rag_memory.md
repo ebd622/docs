@@ -2,7 +2,7 @@
 Modern AI agents need multiple capabilities working together such as Skills, MCP, RAG and Memory that solve different problems
 
 ## Skils
-todo
+Skills define how the agent performs a task (i.e. a kind of set of instructions)
 ## MCP
 todo
 ## RAG
