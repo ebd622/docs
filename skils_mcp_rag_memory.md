@@ -34,5 +34,7 @@ Examples:
 ## Memory
 Memory is the stuff that agent (not a person) has picked up itself and kind of stored for later from things that happened preciously. So, the agent can look back at some kind of memory to get knoledge from previous ex[erience/iteration.
 
+For example, when the agent managed to find/fix an issues it can save back details on the issue into the memory and use it next time.
+
 # Resources
 * https://youtu.be/X4FVEEegCbk?si=n_WfuJjQFHDodRMI
