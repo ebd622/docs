@@ -32,7 +32,7 @@ Examples:
 * Wiki pages
 * Architecture documents
 ## Memory
-todo
+Memory is the stuff that agent (not a person) has picked up itself and kind of stored for later from things that happened preciously.
 
 # Resources
 * https://youtu.be/X4FVEEegCbk?si=n_WfuJjQFHDodRMI
