@@ -32,7 +32,7 @@ Examples:
 * Wiki pages
 * Architecture documents
 ## Memory
-Memory is the stuff that agent (not a person) has picked up itself and kind of stored for later from things that happened preciously.
+Memory is the stuff that agent (not a person) has picked up itself and kind of stored for later from things that happened preciously. So, the agent can look back at some kind of memory to get knoledge from previous ex[erience/iteration.
 
 # Resources
 * https://youtu.be/X4FVEEegCbk?si=n_WfuJjQFHDodRMI
