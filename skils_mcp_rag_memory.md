@@ -1,5 +1,11 @@
 # Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know
 Modern AI agents need multiple capabilities working together such as Skills, MCP, RAG and Memory that solve different problems
+|Component|Purpose|Simple Analogy|
+|---------|-------|--------------|
+| Skill |Teach the agent how to perform tasks|Employee training|
+| MCP |  |  |
+| RAG |  |  |
+| Memory |  |  |
 
 
 ## Skils
