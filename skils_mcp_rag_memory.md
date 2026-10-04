@@ -24,7 +24,7 @@ Examples:
 * Azure
 
 ## RAG (Retrieval-Augmented Generation)
-RAG helps the agent access information it wasn't trained on. RAG reads docs fom a Vector DBs.
+RAG helps the agent access information it wasn't trained on. RAG reads docs fom a Vector DBs and thouse docs were put into that DB by a person.
 
 Examples:
 * Internal documentation
