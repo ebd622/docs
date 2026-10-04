@@ -18,12 +18,10 @@ A skill usually contains:
 MCP is a standard way for agents to connect to external systems.
 
 Examples:
+* Splunk (to get logs)
 * GitHub
 * Jira
-* Confluence
 * Azure
-* Databases
-* Internal APIs
 
 ## RAG (Retrieval-Augmented Generation)
 RAG helps the agent access information it wasn't trained on.
