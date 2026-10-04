@@ -1,6 +1,11 @@
 # Skills vs MCP vs RAG vs Memory: What AI Agents Need to Know
 Modern AI agents need multiple capabilities working together such as Skills, MCP, RAG and Memory that solve different problems
 
+* Skill is a procedure to follow something repeatable
+* MCP is a way the agent can look something up in the world
+* RAG is knowledge that somebody has written down
+* Memory is knowledge that the agent picked up from experience
+
 ## Skils
 Skills define how the agent performs a task (i.e. a kind of set of instructions). 
 
@@ -31,6 +36,7 @@ Examples:
 * Runbooks
 * Wiki pages
 * Architecture documents
+
 ## Memory
 Memory is the stuff that agent (not a person) has picked up itself and kind of stored for later from things that happened preciously. So, the agent can look back at some kind of memory to get knoledge from previous ex[erience/iteration.
 
