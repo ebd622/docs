@@ -15,7 +15,16 @@ A skill usually contains:
 * Tool usage patterns
 
 ## MCP
-todo
+MCP is a standard way for agents to connect to external systems.
+
+Examples:
+* GitHub
+* Jira
+* Confluence
+* Azure
+* Databases
+* Internal APIs
+
 ## RAG
 todo
 ## Memory
