@@ -25,8 +25,14 @@ Examples:
 * Databases
 * Internal APIs
 
-## RAG
-todo
+## RAG (Retrieval-Augmented Generation)
+RAG helps the agent access information it wasn't trained on.
+
+Examples:
+* Internal documentation
+* Runbooks
+* Wiki pages
+* Architecture documents
 ## Memory
 todo
 
