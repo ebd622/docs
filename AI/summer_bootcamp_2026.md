@@ -60,6 +60,7 @@ Notes
   * [Episode 1: Introduction to GitHub Copilot](https://www.youtube.com/watch?v=-1-ZeFMmlOM)
   * [Episode 2: Exploring GitHub Copilot features](https://www.youtube.com/watch?v=eTRrKcIzlJs)
   * [Episode 5: GitHub Copilot Advanced Features](https://www.youtube.com/watch?v=glm-YdEadSM)
+  * https://github.github.io/spec-kit/reference/agentic-sdd.html#speckitconstitution
 
   
      
