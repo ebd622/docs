@@ -51,4 +51,4 @@ For example, when the agent managed to find/fix an issues it can save back detai
 * Memory is knowledge that the agent picked up from experience
 
 # Resources
-* https://youtu.be/X4FVEEegCbk?si=n_WfuJjQFHDodRMI
+* [Skills vs MCP vs RAG vs Memory](https://youtu.be/X4FVEEegCbk?si=n_WfuJjQFHDodRMI)
