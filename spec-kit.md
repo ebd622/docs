@@ -8,7 +8,10 @@ Constitution → Specify → Clarify → Plan → Tasks → Implement → Conver
 TODO
 ### Specify
 TODO
-
+### Clarify
+TODO
+### Plan
+TODO
 
 # Resources
 * [GitHub Spec-Kit](https://github.com/github/spec-kit)
