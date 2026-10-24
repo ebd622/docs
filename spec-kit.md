@@ -5,6 +5,9 @@ TODO
 ## Standard workflow
 Constitution → Specify → Clarify → Plan → Tasks → Implement → Converge
 ### Constitution
+```
+/speckit-constitution
+```
 TODO
 ### Specify
 TODO
