@@ -34,7 +34,7 @@ TODO
 
 # Resources
 * SDD
-  * [Spec Driven Develppment](https://youtu.be/RhaF4LVAVng?si=3nu51beWxWgMGXtL)
+  * [Spec Driven Develppment](https://youtu.be/RhaF4LVAVng?si=3nu51beWxWgMGXtL) (example with supadata.ai)
 * Spec-kit
   * [GitHub Spec-Kit](https://github.com/github/spec-kit)
   * [Extentions](https://speckit-community.github.io/extensions)
