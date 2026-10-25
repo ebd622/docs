@@ -1,7 +1,12 @@
 # Spec-kit: HowTo
 
 ## Mostly used commands
-TODO
+Check and Upgrade version
+```
+specify version
+specify self upgrade --dry-run
+```
+
 ## Standard workflow
 Constitution → Specify → Clarify → Plan → Tasks → Implement → Converge
 ### Constitution
