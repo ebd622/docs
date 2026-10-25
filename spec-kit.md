@@ -21,7 +21,8 @@ Constitution → Specify → Clarify → Plan → Tasks → Implement → Conver
 ```
 It is also possible to specify some particular details for constitution. For example
 ```
-/skill:speckit-constitution add that jackson2 is deplicated. Jackson3 should be used in all new implementation in
+/skill:speckit-constitution
+jackson2 is deplicated. Jackson3 should be used in all new implementations
 ```
 
 ### Specify
