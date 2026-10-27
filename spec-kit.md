@@ -19,6 +19,25 @@ Constitution → Specify → Clarify → Plan → Tasks → Implement → Conver
 /speckit-constitution
 /skill:speckit-constitution
 ```
+Example:
+```
+/skill:speckit-constitution
+- Java 21 LTS is mandatory.
+- Use the latest stable Spring Boot version.
+- Maven is the standard build tool.
+- Follow REST API best practices and OpenAPI 3 documentation.
+- Use PostgreSQL as the primary database.
+- Use JUnit 5, Mockito, and Testcontainers for testing.
+- Use feature-based package structure.
+- Use Java Records for DTOs where appropriate.
+- Implement input validation using Jakarta Validation.
+- Use Spring Boot Actuator and Micrometer for observability.
+- Provide Docker support.
+- Use secure coding practices, externalized configuration, and no hard-coded secrets.
+- Prefer clean code, SOLID principles, and maintainable architecture.
+- Require API versioning and standardized error responses.
+- Define governance, compliance, and amendment rules for the constitution.
+```
 It is also possible to specify some particular details for constitution. For example
 ```
 /skill:speckit-constitution
