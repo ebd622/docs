@@ -13,7 +13,7 @@ specify init .
 This will also create an empty constitution.md (from a template)
 
 ## Standard workflow
-Constitution → Specify → Clarify → Plan → Tasks → Implement → Converge
+Constitution → Specify → Clarify → Plan → Checklist → Tasks → Analyze → Implement → Converge
 ### Constitution
 ```
 /speckit-constitution
