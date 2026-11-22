@@ -84,6 +84,7 @@ jackson2 is deplicated. Jackson3 should be used in all new implementations
 # Resources
 * SDD
   * [Spec Driven Develppment](https://youtu.be/RhaF4LVAVng?si=3nu51beWxWgMGXtL) (example with supadata.ai)
+  * [Agentic SDD](https://github.github.io/spec-kit/reference/agentic-sdd.html)
 * Spec-kit
   * [GitHub Spec-Kit](https://github.com/github/spec-kit)
   * [Extentions](https://speckit-community.github.io/extensions)
