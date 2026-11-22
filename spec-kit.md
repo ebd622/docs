@@ -59,6 +59,12 @@ jackson2 is deplicated. Jackson3 should be used in all new implementations
 /speckit-plan
 /skill:speckit-plan
 ```
+### Checklist (optional)
+```
+/speckit-checklist
+/skill:speckit-checklist
+```
+
 ### Tasks
 ```
 /speckit-tasks
