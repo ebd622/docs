@@ -64,10 +64,20 @@ jackson2 is deplicated. Jackson3 should be used in all new implementations
 /speckit-tasks
 /skill:speckit-tasks
 ```
+### Analyse (optional)
+```
+/speckit-analyse
+/skill:speckit-analyse
+```
 ### Implement
 ```
 /speckit-implement
 /skill:speckit-implement
+```
+### Converge
+```
+/speckit-converge
+/skill:speckit-converge
 ```
 
 
