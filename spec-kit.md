@@ -45,7 +45,10 @@ jackson2 is deplicated. Jackson3 should be used in all new implementations
 ```
 
 ### Specify
-TODO
+```
+/speckit-specify
+/skill:speckit-specify
+```
 ### Clarify
 TODO
 ### Plan
