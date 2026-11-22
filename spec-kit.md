@@ -55,9 +55,20 @@ jackson2 is deplicated. Jackson3 should be used in all new implementations
 /skill:speckit-clarify
 ```
 ### Plan
-TODO
+```
+/speckit-plan
+/skill:speckit-plan
+```
 ### Tasks
-TODO
+```
+/speckit-tasks
+/skill:speckit-tasks
+```
+### Implement
+```
+/speckit-implement
+/skill:speckit-implement
+```
 
 
 # Resources
